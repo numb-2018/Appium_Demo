@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="AppiumTestSuite">
+
+	<!-- <listeners>
+				<listenerclass-name="com.premise.listerners.TestNGCustomReportListener" 
+		/> </listeners> -->
+	<test name="OPPO_A54">
+
+		<classes>
+			<class name="smoke_test.login_test" >
+				<!--<methods>
+					<include name=""></include>
+					<include name=","></include>
+				</methods>-->
+			</class>
+		</classes>
+
+	</test> <!-- Test -->
+</suite> <!-- Suite -->

@@ -1,0 +1,1118 @@
+19:05:59,933 DEBUG [cache] Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+19:05:59,936 DEBUG [cache] TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+19:05:59,939 DEBUG [cache] TemplateLoader.findTemplateSource("index.ftl"): Found
+19:05:59,939 DEBUG [cache] Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+19:06:00,259 DEBUG [cache] Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+19:06:00,279 DEBUG [cache] TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+19:06:00,280 DEBUG [cache] TemplateLoader.findTemplateSource("head.ftl"): Found
+19:06:00,280 DEBUG [cache] Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+19:06:00,285 DEBUG [cache] Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+19:06:00,286 DEBUG [cache] TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+19:06:00,288 DEBUG [cache] TemplateLoader.findTemplateSource("nav.ftl"): Found
+19:06:00,288 DEBUG [cache] Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+19:06:00,301 DEBUG [cache] Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+19:06:00,302 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+19:06:00,302 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+19:06:00,303 DEBUG [cache] Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+19:06:00,313 DEBUG [cache] Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+19:06:00,314 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+19:06:00,314 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+19:06:00,314 DEBUG [cache] Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+19:06:00,338 DEBUG [cache] Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+19:06:00,338 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+19:06:00,339 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+19:06:00,339 DEBUG [cache] Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+19:06:00,361 DEBUG [cache] Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+19:06:00,362 DEBUG [cache] TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+19:06:00,362 DEBUG [cache] TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+19:06:00,363 DEBUG [cache] Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+19:06:00,370 DEBUG [cache] Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+19:06:00,370 DEBUG [cache] TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+19:06:00,371 DEBUG [cache] TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+19:06:00,371 DEBUG [cache] Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+19:06:00,378 DEBUG [cache] Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+19:06:00,379 DEBUG [cache] TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+19:06:00,379 DEBUG [cache] TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+19:06:00,380 DEBUG [cache] Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+19:06:00,390 DEBUG [cache] Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+19:06:00,391 DEBUG [cache] TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+19:06:00,391 DEBUG [cache] TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+19:06:00,392 DEBUG [cache] Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+19:06:00,408 DEBUG [cache] Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+19:06:00,410 DEBUG [cache] TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+19:06:00,410 DEBUG [cache] TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+19:06:00,412 DEBUG [cache] Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+19:15:42,918 DEBUG [cache] Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+19:15:42,920 DEBUG [cache] TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+19:15:42,922 DEBUG [cache] TemplateLoader.findTemplateSource("index.ftl"): Found
+19:15:42,923 DEBUG [cache] Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+19:15:43,238 DEBUG [cache] Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+19:15:43,240 DEBUG [cache] TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+19:15:43,243 DEBUG [cache] TemplateLoader.findTemplateSource("head.ftl"): Found
+19:15:43,243 DEBUG [cache] Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+19:15:43,250 DEBUG [cache] Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+19:15:43,250 DEBUG [cache] TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+19:15:43,251 DEBUG [cache] TemplateLoader.findTemplateSource("nav.ftl"): Found
+19:15:43,251 DEBUG [cache] Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+19:15:43,270 DEBUG [cache] Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+19:15:43,271 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+19:15:43,271 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+19:15:43,271 DEBUG [cache] Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+19:15:43,286 DEBUG [cache] Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+19:15:43,287 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+19:15:43,287 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+19:15:43,287 DEBUG [cache] Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+19:15:43,314 DEBUG [cache] Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+19:15:43,315 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+19:15:43,318 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+19:15:43,318 DEBUG [cache] Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+19:15:43,351 DEBUG [cache] Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+19:15:43,351 DEBUG [cache] TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+19:15:43,352 DEBUG [cache] TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+19:15:43,352 DEBUG [cache] Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+19:15:43,356 DEBUG [cache] Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+19:15:43,357 DEBUG [cache] TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+19:15:43,358 DEBUG [cache] TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+19:15:43,358 DEBUG [cache] Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+19:15:43,364 DEBUG [cache] Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+19:15:43,365 DEBUG [cache] TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+19:15:43,365 DEBUG [cache] TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+19:15:43,367 DEBUG [cache] Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+19:15:43,377 DEBUG [cache] Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+19:15:43,378 DEBUG [cache] TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+19:15:43,379 DEBUG [cache] TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+19:15:43,379 DEBUG [cache] Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+19:15:43,389 DEBUG [cache] Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+19:15:43,390 DEBUG [cache] TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+19:15:43,395 DEBUG [cache] TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+19:15:43,395 DEBUG [cache] Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+19:49:41,609 DEBUG [cache] Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+19:49:41,613 DEBUG [cache] TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+19:49:41,618 DEBUG [cache] TemplateLoader.findTemplateSource("index.ftl"): Found
+19:49:41,618 DEBUG [cache] Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+19:49:41,874 DEBUG [cache] Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+19:49:41,875 DEBUG [cache] TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+19:49:41,876 DEBUG [cache] TemplateLoader.findTemplateSource("head.ftl"): Found
+19:49:41,876 DEBUG [cache] Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+19:49:41,879 DEBUG [cache] Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+19:49:41,880 DEBUG [cache] TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+19:49:41,880 DEBUG [cache] TemplateLoader.findTemplateSource("nav.ftl"): Found
+19:49:41,880 DEBUG [cache] Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+19:49:41,892 DEBUG [cache] Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+19:49:41,892 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+19:49:41,893 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+19:49:41,893 DEBUG [cache] Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+19:49:41,903 DEBUG [cache] Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+19:49:41,904 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+19:49:41,904 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+19:49:41,904 DEBUG [cache] Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+19:49:41,920 DEBUG [cache] Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+19:49:41,921 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+19:49:41,922 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+19:49:41,922 DEBUG [cache] Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+19:49:41,942 DEBUG [cache] Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+19:49:41,943 DEBUG [cache] TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+19:49:41,943 DEBUG [cache] TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+19:49:41,943 DEBUG [cache] Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+19:49:41,949 DEBUG [cache] Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+19:49:41,950 DEBUG [cache] TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+19:49:41,950 DEBUG [cache] TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+19:49:41,950 DEBUG [cache] Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+19:49:41,955 DEBUG [cache] Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+19:49:41,956 DEBUG [cache] TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+19:49:41,957 DEBUG [cache] TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+19:49:41,957 DEBUG [cache] Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+19:49:41,961 DEBUG [cache] Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+19:49:41,962 DEBUG [cache] TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+19:49:41,963 DEBUG [cache] TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+19:49:41,963 DEBUG [cache] Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+19:49:41,969 DEBUG [cache] Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+19:49:41,970 DEBUG [cache] TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+19:49:41,971 DEBUG [cache] TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+19:49:41,971 DEBUG [cache] Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+19:49:46,441 INFO  [AppiumLauncher] Executing closeAppiumSession command on OS:::WINDOWS 10 for port number:::
+19:49:46,550 INFO  [TerminalExecutor] ***executeCommand****************cmd /c taskkill /f /im node.exe
+19:49:48,555 ERROR [TerminalExecutor] ERROR O/P::ERROR: The process "node.exe" not found.
+19:49:48,609 INFO  [TerminalExecutor] ***executeCommand****************cmd /c taskkill /f /im adb.exe
+19:49:50,026 INFO  [TerminalExecutor] Normal O/P::SUCCESS: The process "adb.exe" with PID 1656 has been terminated.
+20:00:57,291 DEBUG [cache] Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+20:00:57,293 DEBUG [cache] TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+20:00:57,296 DEBUG [cache] TemplateLoader.findTemplateSource("index.ftl"): Found
+20:00:57,296 DEBUG [cache] Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+20:00:57,579 DEBUG [cache] Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+20:00:57,580 DEBUG [cache] TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+20:00:57,581 DEBUG [cache] TemplateLoader.findTemplateSource("head.ftl"): Found
+20:00:57,582 DEBUG [cache] Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+20:00:57,586 DEBUG [cache] Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+20:00:57,588 DEBUG [cache] TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+20:00:57,589 DEBUG [cache] TemplateLoader.findTemplateSource("nav.ftl"): Found
+20:00:57,589 DEBUG [cache] Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+20:00:57,618 DEBUG [cache] Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+20:00:57,619 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+20:00:57,621 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+20:00:57,622 DEBUG [cache] Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+20:00:57,653 DEBUG [cache] Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+20:00:57,654 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+20:00:57,657 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+20:00:57,658 DEBUG [cache] Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+20:00:57,720 DEBUG [cache] Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+20:00:57,721 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+20:00:57,722 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+20:00:57,722 DEBUG [cache] Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+20:00:57,756 DEBUG [cache] Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+20:00:57,757 DEBUG [cache] TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+20:00:57,757 DEBUG [cache] TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+20:00:57,759 DEBUG [cache] Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+20:00:57,774 DEBUG [cache] Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+20:00:57,777 DEBUG [cache] TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+20:00:57,778 DEBUG [cache] TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+20:00:57,778 DEBUG [cache] Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+20:00:57,863 DEBUG [cache] Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+20:00:57,873 DEBUG [cache] TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+20:00:57,873 DEBUG [cache] TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+20:00:57,874 DEBUG [cache] Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+20:00:57,894 DEBUG [cache] Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+20:00:57,896 DEBUG [cache] TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+20:00:57,901 DEBUG [cache] TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+20:00:57,902 DEBUG [cache] Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+20:00:57,941 DEBUG [cache] Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+20:00:57,959 DEBUG [cache] TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+20:00:57,961 DEBUG [cache] TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+20:00:57,962 DEBUG [cache] Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+22:19:29,785 INFO  [AppiumLauncher] *************** Starting Appium Server for Android Device::: on OS :::WINDOWS 10
+22:19:41,538 INFO  [AppiumLauncher] Appium Server started successfully on windows 10 for:::Android
+23:31:28,174 INFO  [AppiumLauncher] *************** Starting Appium Server for Android Device::: on OS :::WINDOWS 10
+23:31:39,698 INFO  [AppiumLauncher] Appium Server started successfully on windows 10 for:::Android
+23:32:41,208 INFO  [AppiumLauncher] *************** Starting Appium Server for Android Device::: on OS :::WINDOWS 10
+23:32:48,756 INFO  [AppiumLauncher] Appium Server started successfully on windows 10 for:::Android
+23:33:19,158 DEBUG [cache] Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+23:33:19,162 DEBUG [cache] TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+23:33:19,168 DEBUG [cache] TemplateLoader.findTemplateSource("index.ftl"): Found
+23:33:19,169 DEBUG [cache] Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+23:33:19,484 DEBUG [cache] Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+23:33:19,485 DEBUG [cache] TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+23:33:19,486 DEBUG [cache] TemplateLoader.findTemplateSource("head.ftl"): Found
+23:33:19,487 DEBUG [cache] Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+23:33:19,498 DEBUG [cache] Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+23:33:19,499 DEBUG [cache] TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+23:33:19,499 DEBUG [cache] TemplateLoader.findTemplateSource("nav.ftl"): Found
+23:33:19,500 DEBUG [cache] Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+23:33:19,518 DEBUG [cache] Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+23:33:19,519 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+23:33:19,519 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+23:33:19,520 DEBUG [cache] Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+23:33:19,536 DEBUG [cache] Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+23:33:19,539 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+23:33:19,554 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+23:33:19,554 DEBUG [cache] Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+23:33:19,600 DEBUG [cache] Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+23:33:19,600 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+23:33:19,601 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+23:33:19,601 DEBUG [cache] Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+23:33:19,629 DEBUG [cache] Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+23:33:19,631 DEBUG [cache] TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+23:33:19,632 DEBUG [cache] TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+23:33:19,632 DEBUG [cache] Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+23:33:19,637 DEBUG [cache] Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+23:33:19,638 DEBUG [cache] TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+23:33:19,639 DEBUG [cache] TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+23:33:19,639 DEBUG [cache] Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+23:33:19,672 DEBUG [cache] Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+23:33:19,673 DEBUG [cache] TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+23:33:19,674 DEBUG [cache] TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+23:33:19,674 DEBUG [cache] Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+23:33:19,684 DEBUG [cache] Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+23:33:19,686 DEBUG [cache] TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+23:33:19,686 DEBUG [cache] TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+23:33:19,687 DEBUG [cache] Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+23:33:19,739 DEBUG [cache] Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+23:33:19,739 DEBUG [cache] TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+23:33:19,740 DEBUG [cache] TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+23:33:19,741 DEBUG [cache] Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+23:35:53,331 INFO  [AppiumLauncher] *************** Starting Appium Server for Android Device::: on OS :::WINDOWS 10
+23:36:00,808 INFO  [AppiumLauncher] Appium Server started successfully on windows 10 for:::Android
+23:36:00,808 INFO  [TestBaseClass] Initializing Appium driver for testBedName::: for device Type::Android
+23:36:00,809 INFO  [AppiumLauncher] *************** Starting Appium Server for Android Device::: on OS :::WINDOWS 10
+23:36:08,766 INFO  [AppiumLauncher] Appium Server started successfully on windows 10 for:::Android
+23:36:08,767 INFO  [TestBaseClass] Initializing local driver
+23:36:08,789 INFO  [DeviceCapabilities] Setting Desired capabilities:::
+23:36:08,794 INFO  [DeviceCapabilities] Capabilities for Capabilities {appActivity: com.application.appiumtutor..., appPackage: com.application.appiumtutorial, automationName: uiautomator2, deviceName: OPPO A54, noReset: false, platformName: Android, udid: PZPVSC95GMKNGUBQ}
+23:36:08,812 INFO  [CreateDriver] *****Start createLocalDriver method*******
+23:36:08,812 INFO  [CreateDriver] createLocalDriver ::: serverUrl:::http://127.0.0.1:4723/wd/hub
+23:36:08,812 INFO  [CreateDriver] Driver Capabilities createLocalDriver:::Capabilities {appActivity: com.application.appiumtutor..., appPackage: com.application.appiumtutorial, automationName: uiautomator2, deviceName: OPPO A54, noReset: false, platformName: Android, udid: PZPVSC95GMKNGUBQ}
+23:36:09,680 ERROR [CreateDriver] Throwable while createLocalDriver:::Connection refused: no further information
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'THLASIMK', ip: '192.168.1.36', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.1.1'
+Driver info: driver.version: CreateDriver
+23:36:09,683 ERROR [TestBaseClass] Unable to initialize driver :::Cannot invoke "io.appium.java_client.AppiumDriver.toString()" because "driver" is null
+23:36:39,984 DEBUG [cache] Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+23:36:39,990 DEBUG [cache] TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+23:36:39,999 DEBUG [cache] TemplateLoader.findTemplateSource("index.ftl"): Found
+23:36:40,002 DEBUG [cache] Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+23:36:40,373 DEBUG [cache] Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+23:36:40,374 DEBUG [cache] TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+23:36:40,374 DEBUG [cache] TemplateLoader.findTemplateSource("head.ftl"): Found
+23:36:40,376 DEBUG [cache] Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+23:36:40,380 DEBUG [cache] Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+23:36:40,380 DEBUG [cache] TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+23:36:40,383 DEBUG [cache] TemplateLoader.findTemplateSource("nav.ftl"): Found
+23:36:40,383 DEBUG [cache] Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+23:36:40,394 DEBUG [cache] Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+23:36:40,395 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+23:36:40,395 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+23:36:40,396 DEBUG [cache] Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+23:36:40,410 DEBUG [cache] Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+23:36:40,411 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+23:36:40,411 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+23:36:40,411 DEBUG [cache] Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+23:36:40,430 DEBUG [cache] Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+23:36:40,430 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+23:36:40,430 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+23:36:40,430 DEBUG [cache] Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+23:36:40,450 DEBUG [cache] Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+23:36:40,451 DEBUG [cache] TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+23:36:40,452 DEBUG [cache] TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+23:36:40,452 DEBUG [cache] Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+23:36:40,458 DEBUG [cache] Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+23:36:40,459 DEBUG [cache] TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+23:36:40,460 DEBUG [cache] TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+23:36:40,460 DEBUG [cache] Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+23:36:40,465 DEBUG [cache] Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+23:36:40,465 DEBUG [cache] TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+23:36:40,466 DEBUG [cache] TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+23:36:40,466 DEBUG [cache] Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+23:36:40,471 DEBUG [cache] Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+23:36:40,471 DEBUG [cache] TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+23:36:40,472 DEBUG [cache] TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+23:36:40,473 DEBUG [cache] Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+23:36:40,478 DEBUG [cache] Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+23:36:40,479 DEBUG [cache] TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+23:36:40,480 DEBUG [cache] TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+23:36:40,480 DEBUG [cache] Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+23:39:25,555 INFO  [AppiumLauncher] *************** Starting Appium Server for Android Device::: on OS :::WINDOWS 10
+23:39:32,746 INFO  [AppiumLauncher] Appium Server started successfully on windows 10 for:::Android
+23:39:32,747 INFO  [TestBaseClass] Initializing Appium driver for testBedName::: for device Type::Android
+23:39:32,747 INFO  [AppiumLauncher] *************** Starting Appium Server for Android Device::: on OS :::WINDOWS 10
+23:39:39,378 INFO  [AppiumLauncher] Appium Server started successfully on windows 10 for:::Android
+23:39:39,380 INFO  [TestBaseClass] Initializing local driver
+23:39:39,393 INFO  [DeviceCapabilities] Setting Desired capabilities:::
+23:39:39,397 INFO  [DeviceCapabilities] Capabilities for Capabilities {appActivity: com.application.appiumtutor..., appPackage: com.application.appiumtutorial, automationName: uiautomator2, deviceName: OPPO A54, noReset: false, platformName: Android, udid: PZPVSC95GMKNGUBQ}
+23:39:39,407 INFO  [CreateDriver] *****Start createLocalDriver method*******
+23:39:39,407 INFO  [CreateDriver] createLocalDriver ::: serverUrl:::http://127.0.0.1:4723/wd/hub
+23:39:39,407 INFO  [CreateDriver] Driver Capabilities createLocalDriver:::Capabilities {appActivity: com.application.appiumtutor..., appPackage: com.application.appiumtutorial, automationName: uiautomator2, deviceName: OPPO A54, noReset: false, platformName: Android, udid: PZPVSC95GMKNGUBQ}
+23:39:40,081 ERROR [CreateDriver] Throwable while createLocalDriver:::Connection refused: no further information
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'THLASIMK', ip: '192.168.1.36', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.1.1'
+Driver info: driver.version: CreateDriver
+23:39:40,083 ERROR [TestBaseClass] Unable to initialize driver :::Cannot invoke "io.appium.java_client.AppiumDriver.toString()" because "driver" is null
+23:40:10,298 DEBUG [cache] Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+23:40:10,299 DEBUG [cache] TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+23:40:10,301 DEBUG [cache] TemplateLoader.findTemplateSource("index.ftl"): Found
+23:40:10,301 DEBUG [cache] Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+23:40:10,533 DEBUG [cache] Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+23:40:10,534 DEBUG [cache] TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+23:40:10,535 DEBUG [cache] TemplateLoader.findTemplateSource("head.ftl"): Found
+23:40:10,535 DEBUG [cache] Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+23:40:10,540 DEBUG [cache] Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+23:40:10,540 DEBUG [cache] TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+23:40:10,540 DEBUG [cache] TemplateLoader.findTemplateSource("nav.ftl"): Found
+23:40:10,540 DEBUG [cache] Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+23:40:10,554 DEBUG [cache] Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+23:40:10,555 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+23:40:10,556 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+23:40:10,556 DEBUG [cache] Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+23:40:10,569 DEBUG [cache] Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+23:40:10,570 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+23:40:10,570 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+23:40:10,570 DEBUG [cache] Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+23:40:10,593 DEBUG [cache] Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+23:40:10,593 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+23:40:10,594 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+23:40:10,594 DEBUG [cache] Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+23:40:10,614 DEBUG [cache] Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+23:40:10,614 DEBUG [cache] TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+23:40:10,615 DEBUG [cache] TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+23:40:10,615 DEBUG [cache] Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+23:40:10,619 DEBUG [cache] Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+23:40:10,619 DEBUG [cache] TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+23:40:10,620 DEBUG [cache] TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+23:40:10,620 DEBUG [cache] Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+23:40:10,625 DEBUG [cache] Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+23:40:10,626 DEBUG [cache] TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+23:40:10,626 DEBUG [cache] TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+23:40:10,626 DEBUG [cache] Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+23:40:10,630 DEBUG [cache] Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+23:40:10,630 DEBUG [cache] TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+23:40:10,630 DEBUG [cache] TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+23:40:10,631 DEBUG [cache] Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+23:40:10,636 DEBUG [cache] Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+23:40:10,636 DEBUG [cache] TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+23:40:10,637 DEBUG [cache] TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+23:40:10,637 DEBUG [cache] Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+23:51:32,376 INFO  [TestBaseClass] Initializing Appium driver for testBedName::: for device Type::Android
+23:51:32,416 INFO  [AppiumLauncher] *************** Starting Appium Server for Android Device::: on OS :::WINDOWS 10
+23:51:38,943 INFO  [AppiumLauncher] Appium Server started successfully on windows 10 for:::Android
+23:51:38,943 INFO  [TestBaseClass] Initializing local driver
+23:51:38,961 INFO  [DeviceCapabilities] Setting Desired capabilities:::
+23:51:38,966 INFO  [DeviceCapabilities] Capabilities for Capabilities {appActivity: com.application.appiumtutor..., appPackage: com.application.appiumtutorial, automationName: uiautomator2, deviceName: OPPO A54, noReset: false, platformName: Android, udid: PZPVSC95GMKNGUBQ}
+23:51:38,981 INFO  [CreateDriver] *****Start createLocalDriver method*******
+23:51:38,982 INFO  [CreateDriver] createLocalDriver ::: serverUrl:::http://127.0.0.1:4723/wd/hub
+23:51:38,982 INFO  [CreateDriver] Driver Capabilities createLocalDriver:::Capabilities {appActivity: com.application.appiumtutor..., appPackage: com.application.appiumtutorial, automationName: uiautomator2, deviceName: OPPO A54, noReset: false, platformName: Android, udid: PZPVSC95GMKNGUBQ}
+23:51:39,745 ERROR [CreateDriver] Throwable while createLocalDriver:::Connection refused: no further information
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'THLASIMK', ip: '192.168.1.36', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.1.1'
+Driver info: driver.version: CreateDriver
+23:51:39,749 ERROR [TestBaseClass] Unable to initialize driver :::Cannot invoke "io.appium.java_client.AppiumDriver.toString()" because "driver" is null
+23:51:39,750 INFO  [AppiumLauncher] *************** Starting Appium Server for Android Device::: on OS :::WINDOWS 10
+23:51:46,055 INFO  [AppiumLauncher] Appium Server started successfully on windows 10 for:::Android
+23:52:16,287 DEBUG [cache] Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+23:52:16,289 DEBUG [cache] TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+23:52:16,296 DEBUG [cache] TemplateLoader.findTemplateSource("index.ftl"): Found
+23:52:16,296 DEBUG [cache] Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+23:52:16,704 DEBUG [cache] Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+23:52:16,704 DEBUG [cache] TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+23:52:16,705 DEBUG [cache] TemplateLoader.findTemplateSource("head.ftl"): Found
+23:52:16,705 DEBUG [cache] Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+23:52:16,709 DEBUG [cache] Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+23:52:16,710 DEBUG [cache] TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+23:52:16,710 DEBUG [cache] TemplateLoader.findTemplateSource("nav.ftl"): Found
+23:52:16,710 DEBUG [cache] Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+23:52:16,722 DEBUG [cache] Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+23:52:16,723 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+23:52:16,723 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+23:52:16,724 DEBUG [cache] Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+23:52:16,754 DEBUG [cache] Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+23:52:16,755 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+23:52:16,756 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+23:52:16,756 DEBUG [cache] Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+23:52:16,791 DEBUG [cache] Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+23:52:16,791 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+23:52:16,793 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+23:52:16,793 DEBUG [cache] Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+23:52:16,837 DEBUG [cache] Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+23:52:16,854 DEBUG [cache] TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+23:52:16,854 DEBUG [cache] TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+23:52:16,854 DEBUG [cache] Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+23:52:16,864 DEBUG [cache] Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+23:52:16,864 DEBUG [cache] TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+23:52:16,871 DEBUG [cache] TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+23:52:16,871 DEBUG [cache] Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+23:52:16,879 DEBUG [cache] Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+23:52:16,881 DEBUG [cache] TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+23:52:16,881 DEBUG [cache] TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+23:52:16,881 DEBUG [cache] Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+23:52:16,885 DEBUG [cache] Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+23:52:16,886 DEBUG [cache] TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+23:52:16,886 DEBUG [cache] TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+23:52:16,886 DEBUG [cache] Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+23:52:16,892 DEBUG [cache] Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+23:52:16,893 DEBUG [cache] TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+23:52:16,893 DEBUG [cache] TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+23:52:16,893 DEBUG [cache] Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+23:52:38,325 INFO  [TestBaseClass] Initializing Appium driver for testBedName::: for device Type::Android
+23:52:38,420 INFO  [AppiumLauncher] *************** Starting Appium Server for Android Device::: on OS :::WINDOWS 10
+23:52:47,055 INFO  [AppiumLauncher] Appium Server started successfully on windows 10 for:::Android
+23:52:47,056 INFO  [TestBaseClass] Initializing local driver
+23:52:47,083 INFO  [DeviceCapabilities] Setting Desired capabilities:::
+23:52:47,089 INFO  [DeviceCapabilities] Capabilities for Capabilities {appActivity: com.application.appiumtutor..., appPackage: com.application.appiumtutorial, automationName: uiautomator2, deviceName: OPPO A54, noReset: false, platformName: Android, udid: PZPVSC95GMKNGUBQ}
+23:52:47,105 INFO  [CreateDriver] *****Start createLocalDriver method*******
+23:52:47,105 INFO  [CreateDriver] createLocalDriver ::: serverUrl:::http://127.0.0.1:4723/wd/hub
+23:52:47,105 INFO  [CreateDriver] Driver Capabilities createLocalDriver:::Capabilities {appActivity: com.application.appiumtutor..., appPackage: com.application.appiumtutorial, automationName: uiautomator2, deviceName: OPPO A54, noReset: false, platformName: Android, udid: PZPVSC95GMKNGUBQ}
+23:52:48,393 ERROR [CreateDriver] Throwable while createLocalDriver:::Connection refused: no further information
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'THLASIMK', ip: '192.168.1.36', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.1.1'
+Driver info: driver.version: CreateDriver
+23:52:48,396 ERROR [TestBaseClass] Unable to initialize driver :::Cannot invoke "io.appium.java_client.AppiumDriver.toString()" because "driver" is null
+23:52:48,398 INFO  [AppiumLauncher] *************** Starting Appium Server for Android Device::: on OS :::WINDOWS 10
+23:52:57,378 INFO  [AppiumLauncher] Appium Server started successfully on windows 10 for:::Android
+23:53:27,689 DEBUG [cache] Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+23:53:27,690 DEBUG [cache] TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+23:53:27,692 DEBUG [cache] TemplateLoader.findTemplateSource("index.ftl"): Found
+23:53:27,693 DEBUG [cache] Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+23:53:27,958 DEBUG [cache] Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+23:53:27,959 DEBUG [cache] TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+23:53:27,960 DEBUG [cache] TemplateLoader.findTemplateSource("head.ftl"): Found
+23:53:27,960 DEBUG [cache] Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+23:53:27,965 DEBUG [cache] Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+23:53:27,965 DEBUG [cache] TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+23:53:27,966 DEBUG [cache] TemplateLoader.findTemplateSource("nav.ftl"): Found
+23:53:27,966 DEBUG [cache] Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+23:53:27,979 DEBUG [cache] Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+23:53:27,980 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+23:53:27,981 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+23:53:27,981 DEBUG [cache] Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+23:53:27,993 DEBUG [cache] Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+23:53:27,994 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+23:53:27,995 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+23:53:27,995 DEBUG [cache] Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+23:53:28,014 DEBUG [cache] Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+23:53:28,014 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+23:53:28,015 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+23:53:28,015 DEBUG [cache] Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+23:53:28,036 DEBUG [cache] Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+23:53:28,037 DEBUG [cache] TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+23:53:28,037 DEBUG [cache] TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+23:53:28,037 DEBUG [cache] Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+23:53:28,041 DEBUG [cache] Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+23:53:28,042 DEBUG [cache] TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+23:53:28,043 DEBUG [cache] TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+23:53:28,043 DEBUG [cache] Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+23:53:28,048 DEBUG [cache] Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+23:53:28,049 DEBUG [cache] TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+23:53:28,050 DEBUG [cache] TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+23:53:28,050 DEBUG [cache] Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+23:53:28,054 DEBUG [cache] Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+23:53:28,055 DEBUG [cache] TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+23:53:28,055 DEBUG [cache] TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+23:53:28,056 DEBUG [cache] Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+23:53:28,061 DEBUG [cache] Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+23:53:28,062 DEBUG [cache] TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+23:53:28,062 DEBUG [cache] TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+23:53:28,063 DEBUG [cache] Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+23:54:31,139 INFO  [TestBaseClass] Initializing Appium driver for testBedName::: for device Type::Android
+23:54:31,168 INFO  [AppiumLauncher] *************** Starting Appium Server for Android Device::: on OS :::WINDOWS 10
+23:54:39,152 INFO  [AppiumLauncher] Appium Server started successfully on windows 10 for:::Android
+23:54:39,152 INFO  [TestBaseClass] Initializing local driver
+23:54:39,170 INFO  [DeviceCapabilities] Setting Desired capabilities:::
+23:54:39,175 INFO  [DeviceCapabilities] Capabilities for Capabilities {appActivity: com.application.appiumtutor..., appPackage: com.application.appiumtutorial, automationName: uiautomator2, deviceName: OPPO A54, noReset: false, platformName: Android, udid: PZPVSC95GMKNGUBQ}
+23:54:39,207 INFO  [CreateDriver] *****Start createLocalDriver method*******
+23:54:39,208 INFO  [CreateDriver] createLocalDriver ::: serverUrl:::http://127.0.0.1:4723/wd/hub
+23:54:39,208 INFO  [CreateDriver] Driver Capabilities createLocalDriver:::Capabilities {appActivity: com.application.appiumtutor..., appPackage: com.application.appiumtutorial, automationName: uiautomator2, deviceName: OPPO A54, noReset: false, platformName: Android, udid: PZPVSC95GMKNGUBQ}
+23:54:40,152 ERROR [CreateDriver] Throwable while createLocalDriver:::Connection refused: no further information
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'THLASIMK', ip: '192.168.1.36', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.1.1'
+Driver info: driver.version: CreateDriver
+23:54:40,157 ERROR [TestBaseClass] Unable to initialize driver :::Cannot invoke "io.appium.java_client.AppiumDriver.toString()" because "driver" is null
+23:55:10,495 DEBUG [cache] Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+23:55:10,496 DEBUG [cache] TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+23:55:10,500 DEBUG [cache] TemplateLoader.findTemplateSource("index.ftl"): Found
+23:55:10,501 DEBUG [cache] Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+23:55:10,827 DEBUG [cache] Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+23:55:10,828 DEBUG [cache] TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+23:55:10,829 DEBUG [cache] TemplateLoader.findTemplateSource("head.ftl"): Found
+23:55:10,830 DEBUG [cache] Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+23:55:10,838 DEBUG [cache] Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+23:55:10,839 DEBUG [cache] TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+23:55:10,839 DEBUG [cache] TemplateLoader.findTemplateSource("nav.ftl"): Found
+23:55:10,839 DEBUG [cache] Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+23:55:10,854 DEBUG [cache] Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+23:55:10,855 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+23:55:10,855 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+23:55:10,855 DEBUG [cache] Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+23:55:10,871 DEBUG [cache] Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+23:55:10,872 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+23:55:10,873 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+23:55:10,873 DEBUG [cache] Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+23:55:10,895 DEBUG [cache] Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+23:55:10,896 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+23:55:10,896 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+23:55:10,897 DEBUG [cache] Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+23:55:10,926 DEBUG [cache] Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+23:55:10,927 DEBUG [cache] TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+23:55:10,927 DEBUG [cache] TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+23:55:10,928 DEBUG [cache] Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+23:55:10,934 DEBUG [cache] Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+23:55:10,934 DEBUG [cache] TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+23:55:10,935 DEBUG [cache] TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+23:55:10,935 DEBUG [cache] Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+23:55:10,944 DEBUG [cache] Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+23:55:10,944 DEBUG [cache] TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+23:55:10,944 DEBUG [cache] TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+23:55:10,945 DEBUG [cache] Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+23:55:10,950 DEBUG [cache] Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+23:55:10,951 DEBUG [cache] TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+23:55:10,952 DEBUG [cache] TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+23:55:10,952 DEBUG [cache] Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+23:55:10,959 DEBUG [cache] Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+23:55:10,960 DEBUG [cache] TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+23:55:10,960 DEBUG [cache] TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+23:55:10,960 DEBUG [cache] Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+00:12:36,181 INFO  [TestBaseClass] Initializing Appium driver for testBedName::: for device Type::Android
+00:12:36,214 INFO  [AppiumLauncher] *************** Starting Appium Server for Android Device::: on OS :::WINDOWS 10
+00:12:47,992 INFO  [AppiumLauncher] Appium Server started successfully on windows 10 for:::Android
+00:12:47,992 INFO  [TestBaseClass] Initializing local driver
+00:12:48,008 INFO  [DeviceCapabilities] Setting Desired capabilities:::
+00:12:48,012 INFO  [DeviceCapabilities] Capabilities for Capabilities {appActivity: com.application.appiumtutor..., appPackage: com.application.appiumtutorial, automationName: uiautomator2, deviceName: OPPO A54, noReset: false, platformName: Android, udid: PZPVSC95GMKNGUBQ}
+00:12:48,024 INFO  [CreateDriver] *****Start createLocalDriver method*******
+00:12:48,025 INFO  [CreateDriver] createLocalDriver ::: serverUrl:::http://127.0.0.1:4723/wd/hub
+00:12:48,025 INFO  [CreateDriver] Driver Capabilities createLocalDriver:::Capabilities {appActivity: com.application.appiumtutor..., appPackage: com.application.appiumtutorial, automationName: uiautomator2, deviceName: OPPO A54, noReset: false, platformName: Android, udid: PZPVSC95GMKNGUBQ}
+00:12:48,844 ERROR [CreateDriver] Throwable while createLocalDriver:::Connection refused: no further information
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'THLASIMK', ip: '192.168.1.36', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.1.1'
+Driver info: driver.version: CreateDriver
+00:12:48,847 ERROR [TestBaseClass] Unable to initialize driver :::Cannot invoke "io.appium.java_client.AppiumDriver.toString()" because "driver" is null
+00:13:19,187 DEBUG [cache] Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+00:13:19,188 DEBUG [cache] TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+00:13:19,191 DEBUG [cache] TemplateLoader.findTemplateSource("index.ftl"): Found
+00:13:19,191 DEBUG [cache] Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+00:13:19,432 DEBUG [cache] Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+00:13:19,433 DEBUG [cache] TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+00:13:19,433 DEBUG [cache] TemplateLoader.findTemplateSource("head.ftl"): Found
+00:13:19,434 DEBUG [cache] Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+00:13:19,437 DEBUG [cache] Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+00:13:19,438 DEBUG [cache] TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+00:13:19,438 DEBUG [cache] TemplateLoader.findTemplateSource("nav.ftl"): Found
+00:13:19,438 DEBUG [cache] Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+00:13:19,447 DEBUG [cache] Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+00:13:19,448 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+00:13:19,449 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+00:13:19,449 DEBUG [cache] Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+00:13:19,460 DEBUG [cache] Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+00:13:19,461 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+00:13:19,461 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+00:13:19,461 DEBUG [cache] Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+00:13:19,481 DEBUG [cache] Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+00:13:19,482 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+00:13:19,482 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+00:13:19,482 DEBUG [cache] Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+00:13:19,499 DEBUG [cache] Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+00:13:19,499 DEBUG [cache] TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+00:13:19,500 DEBUG [cache] TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+00:13:19,500 DEBUG [cache] Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+00:13:19,505 DEBUG [cache] Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+00:13:19,505 DEBUG [cache] TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+00:13:19,506 DEBUG [cache] TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+00:13:19,506 DEBUG [cache] Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+00:13:19,511 DEBUG [cache] Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+00:13:19,512 DEBUG [cache] TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+00:13:19,513 DEBUG [cache] TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+00:13:19,513 DEBUG [cache] Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+00:13:19,517 DEBUG [cache] Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+00:13:19,518 DEBUG [cache] TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+00:13:19,518 DEBUG [cache] TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+00:13:19,518 DEBUG [cache] Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+00:13:19,524 DEBUG [cache] Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+00:13:19,524 DEBUG [cache] TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+00:13:19,525 DEBUG [cache] TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+00:13:19,525 DEBUG [cache] Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+10:27:56,840 INFO  [TestBaseClass] Initializing Appium driver for testBedName::: for device Type::Android
+10:27:56,876 INFO  [AppiumLauncher] *************** Starting Appium Server for Android Device::: on OS :::WINDOWS 10
+10:28:09,332 INFO  [AppiumLauncher] Appium Server started successfully on windows 10 for:::Android
+10:28:09,333 INFO  [TestBaseClass] Initializing local driver
+10:28:09,350 INFO  [DeviceCapabilities] Setting Desired capabilities:::
+10:28:09,353 INFO  [DeviceCapabilities] Capabilities for Capabilities {appActivity: com.application.appiumtutor..., appPackage: com.application.appiumtutorial, automationName: uiautomator2, deviceName: OPPO A54, noReset: false, platformName: Android, udid: PZPVSC95GMKNGUBQ}
+10:28:09,365 INFO  [CreateDriver] *****Start createLocalDriver method*******
+10:28:09,365 INFO  [CreateDriver] createLocalDriver ::: serverUrl:::http://127.0.0.1:4723/wd/hub
+10:28:09,365 INFO  [CreateDriver] Driver Capabilities createLocalDriver:::Capabilities {appActivity: com.application.appiumtutor..., appPackage: com.application.appiumtutorial, automationName: uiautomator2, deviceName: OPPO A54, noReset: false, platformName: Android, udid: PZPVSC95GMKNGUBQ}
+10:28:10,236 ERROR [CreateDriver] Throwable while createLocalDriver:::Connection refused: no further information
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'THLASIMK', ip: '192.168.1.36', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.1.1'
+Driver info: driver.version: CreateDriver
+10:28:10,238 ERROR [TestBaseClass] Unable to initialize driver :::Cannot invoke "io.appium.java_client.AppiumDriver.toString()" because "driver" is null
+10:28:40,582 DEBUG [cache] Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+10:28:40,583 DEBUG [cache] TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+10:28:40,586 DEBUG [cache] TemplateLoader.findTemplateSource("index.ftl"): Found
+10:28:40,586 DEBUG [cache] Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+10:28:40,837 DEBUG [cache] Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+10:28:40,838 DEBUG [cache] TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+10:28:40,839 DEBUG [cache] TemplateLoader.findTemplateSource("head.ftl"): Found
+10:28:40,839 DEBUG [cache] Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+10:28:40,843 DEBUG [cache] Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+10:28:40,844 DEBUG [cache] TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+10:28:40,844 DEBUG [cache] TemplateLoader.findTemplateSource("nav.ftl"): Found
+10:28:40,845 DEBUG [cache] Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+10:28:40,856 DEBUG [cache] Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+10:28:40,856 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+10:28:40,857 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+10:28:40,857 DEBUG [cache] Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+10:28:40,869 DEBUG [cache] Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+10:28:40,870 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+10:28:40,870 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+10:28:40,871 DEBUG [cache] Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+10:28:40,891 DEBUG [cache] Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+10:28:40,891 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+10:28:40,892 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+10:28:40,892 DEBUG [cache] Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+10:28:40,912 DEBUG [cache] Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+10:28:40,912 DEBUG [cache] TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+10:28:40,913 DEBUG [cache] TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+10:28:40,914 DEBUG [cache] Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+10:28:40,918 DEBUG [cache] Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+10:28:40,918 DEBUG [cache] TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+10:28:40,919 DEBUG [cache] TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+10:28:40,919 DEBUG [cache] Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+10:28:40,939 DEBUG [cache] Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+10:28:40,940 DEBUG [cache] TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+10:28:40,941 DEBUG [cache] TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+10:28:40,941 DEBUG [cache] Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+10:28:40,947 DEBUG [cache] Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+10:28:40,947 DEBUG [cache] TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+10:28:40,948 DEBUG [cache] TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+10:28:40,948 DEBUG [cache] Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+10:28:40,955 DEBUG [cache] Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+10:28:40,955 DEBUG [cache] TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+10:28:40,956 DEBUG [cache] TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+10:28:40,957 DEBUG [cache] Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+10:31:51,968 INFO  [TestBaseClass] Initializing Appium driver for testBedName::: for device Type::Android
+10:31:51,996 INFO  [AppiumLauncher] *************** Starting Appium Server for Android Device::: on OS :::WINDOWS 10
+10:31:57,161 INFO  [AppiumLauncher] Appium Server started successfully on windows 10 for:::Android
+10:31:57,162 INFO  [TestBaseClass] Initializing local driver
+10:31:57,175 INFO  [DeviceCapabilities] Setting Desired capabilities:::
+10:31:57,177 INFO  [DeviceCapabilities] Capabilities for Capabilities {appActivity: com.application.appiumtutor..., appPackage: com.application.appiumtutorial, automationName: uiautomator2, deviceName: OPPO A54, noReset: false, platformName: Android, udid: PZPVSC95GMKNGUBQ}
+10:31:57,188 INFO  [CreateDriver] *****Start createLocalDriver method*******
+10:31:57,188 INFO  [CreateDriver] createLocalDriver ::: serverUrl:::http://127.0.0.1:4723/wd/hub
+10:31:57,188 INFO  [CreateDriver] Driver Capabilities createLocalDriver:::Capabilities {appActivity: com.application.appiumtutor..., appPackage: com.application.appiumtutorial, automationName: uiautomator2, deviceName: OPPO A54, noReset: false, platformName: Android, udid: PZPVSC95GMKNGUBQ}
+10:31:57,806 ERROR [CreateDriver] Throwable while createLocalDriver:::Connection refused: no further information
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'THLASIMK', ip: '192.168.1.36', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.1.1'
+Driver info: driver.version: CreateDriver
+10:31:57,808 INFO  [TestBaseClass] Android Driver created!! Driver details :::
+10:32:27,995 DEBUG [cache] Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+10:32:27,996 DEBUG [cache] TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+10:32:27,998 DEBUG [cache] TemplateLoader.findTemplateSource("index.ftl"): Found
+10:32:27,999 DEBUG [cache] Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+10:32:28,219 DEBUG [cache] Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+10:32:28,220 DEBUG [cache] TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+10:32:28,221 DEBUG [cache] TemplateLoader.findTemplateSource("head.ftl"): Found
+10:32:28,221 DEBUG [cache] Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+10:32:28,224 DEBUG [cache] Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+10:32:28,225 DEBUG [cache] TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+10:32:28,225 DEBUG [cache] TemplateLoader.findTemplateSource("nav.ftl"): Found
+10:32:28,225 DEBUG [cache] Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+10:32:28,236 DEBUG [cache] Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+10:32:28,237 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+10:32:28,238 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+10:32:28,239 DEBUG [cache] Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+10:32:28,250 DEBUG [cache] Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+10:32:28,250 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+10:32:28,251 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+10:32:28,251 DEBUG [cache] Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+10:32:28,271 DEBUG [cache] Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+10:32:28,271 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+10:32:28,272 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+10:32:28,272 DEBUG [cache] Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+10:32:28,290 DEBUG [cache] Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+10:32:28,290 DEBUG [cache] TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+10:32:28,291 DEBUG [cache] TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+10:32:28,291 DEBUG [cache] Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+10:32:28,295 DEBUG [cache] Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+10:32:28,296 DEBUG [cache] TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+10:32:28,296 DEBUG [cache] TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+10:32:28,296 DEBUG [cache] Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+10:32:28,302 DEBUG [cache] Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+10:32:28,303 DEBUG [cache] TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+10:32:28,303 DEBUG [cache] TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+10:32:28,304 DEBUG [cache] Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+10:32:28,308 DEBUG [cache] Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+10:32:28,309 DEBUG [cache] TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+10:32:28,309 DEBUG [cache] TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+10:32:28,309 DEBUG [cache] Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+10:32:28,314 DEBUG [cache] Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+10:32:28,315 DEBUG [cache] TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+10:32:28,316 DEBUG [cache] TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+10:32:28,316 DEBUG [cache] Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+10:45:23,171 INFO  [TestBaseClass] Initializing Appium driver for testBedName::: for device Type::Android
+10:45:23,198 INFO  [AppiumLauncher] *************** Starting Appium Server for Android Device::: on OS :::WINDOWS 10
+10:45:28,742 INFO  [AppiumLauncher] Appium Server started successfully on windows 10 for:::Android
+10:45:28,743 INFO  [TestBaseClass] Initializing local driver
+10:45:28,759 INFO  [DeviceCapabilities] Setting Desired capabilities:::
+10:45:28,762 INFO  [DeviceCapabilities] Capabilities for Capabilities {appActivity: com.application.appiumtutor..., appPackage: com.application.appiumtutorial, automationName: uiautomator2, deviceName: OPPO A54, noReset: false, platformName: Android, udid: PZPVSC95GMKNGUBQ}
+10:45:28,774 INFO  [CreateDriver] *****Start createLocalDriver method*******
+10:45:28,774 INFO  [CreateDriver] createLocalDriver ::: serverUrl:::http://127.0.0.1:4723/wd/hub
+10:45:28,774 INFO  [CreateDriver] Driver Capabilities createLocalDriver:::Capabilities {appActivity: com.application.appiumtutor..., appPackage: com.application.appiumtutorial, automationName: uiautomator2, deviceName: OPPO A54, noReset: false, platformName: Android, udid: PZPVSC95GMKNGUBQ}
+10:45:29,623 ERROR [CreateDriver] Throwable while createLocalDriver:::Connection refused: no further information
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'THLASIMK', ip: '192.168.1.36', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.1.1'
+Driver info: driver.version: CreateDriver
+10:45:29,625 INFO  [TestBaseClass] Android Driver created!! Driver details :::null
+11:58:40,779 INFO  [TestBaseClass] Initializing Appium driver for testBedName::: for device Type::Android
+11:58:40,809 INFO  [AppiumLauncher] *************** Starting Appium Server for Android Device::: on OS :::WINDOWS 10
+11:58:45,999 INFO  [AppiumLauncher] Appium Server started successfully on windows 10 for:::Android
+11:58:45,999 INFO  [TestBaseClass] Initializing local driver
+11:58:46,011 INFO  [DeviceCapabilities] Setting Desired capabilities:::
+11:58:46,015 INFO  [DeviceCapabilities] Capabilities for Capabilities {appActivity: com.application.appiumtutor..., appPackage: com.application.appiumtutorial, automationName: uiautomator2, deviceName: OPPO A54, noReset: false, platformName: Android, udid: PZPVSC95GMKNGUBQ}
+11:58:46,025 INFO  [CreateDriver] *****Start createLocalDriver method*******
+11:58:46,025 INFO  [CreateDriver] createLocalDriver ::: serverUrl:::http://127.0.0.1:4723/wd/hub
+11:58:46,025 INFO  [CreateDriver] Driver Capabilities createLocalDriver:::Capabilities {appActivity: com.application.appiumtutor..., appPackage: com.application.appiumtutorial, automationName: uiautomator2, deviceName: OPPO A54, noReset: false, platformName: Android, udid: PZPVSC95GMKNGUBQ}
+11:58:46,618 ERROR [CreateDriver] Throwable while createLocalDriver:::Connection refused: no further information
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'THLASIMK', ip: '192.168.1.36', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.1.1'
+Driver info: driver.version: CreateDriver
+11:58:46,620 INFO  [TestBaseClass] Android Driver created!! Driver details :::null
+12:04:07,469 INFO  [TestBaseClass] Initializing Appium driver for testBedName::: for device Type::Android
+12:04:07,497 INFO  [AppiumLauncher] *************** Starting Appium Server for Android Device::: on OS :::WINDOWS 10
+12:04:07,694 INFO  [AppiumLauncher] Appium Server started successfully on windows 10 for:::Android
+12:04:07,694 INFO  [TestBaseClass] Initializing local driver
+12:04:07,710 INFO  [DeviceCapabilities] Setting Desired capabilities:::
+12:04:07,714 INFO  [DeviceCapabilities] Capabilities for Capabilities {appActivity: com.application.appiumtutor..., appPackage: com.application.appiumtutorial, automationName: uiautomator2, deviceName: OPPO A54, noReset: false, platformName: Android, udid: PZPVSC95GMKNGUBQ}
+12:04:07,728 INFO  [CreateDriver] *****Start createLocalDriver method*******
+12:04:07,729 INFO  [CreateDriver] createLocalDriver ::: serverUrl:::http://127.0.0.1:4723/wd/hub
+12:04:07,729 INFO  [CreateDriver] Driver Capabilities createLocalDriver:::Capabilities {appActivity: com.application.appiumtutor..., appPackage: com.application.appiumtutorial, automationName: uiautomator2, deviceName: OPPO A54, noReset: false, platformName: Android, udid: PZPVSC95GMKNGUBQ}
+12:04:31,504 ERROR [CreateDriver] Throwable while createLocalDriver:::Unable to create a new remote session. Please check the server log for more details. Original error: An unknown server-side error occurred while processing the command. Original error: Could not find a connected Android device in 20212ms.
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'THLASIMK', ip: '192.168.1.36', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.1.1'
+Driver info: driver.version: CreateDriver
+remote stacktrace: UnknownError: An unknown server-side error occurred while processing the command. Original error: Could not find a connected Android device in 20212ms.
+    at getResponseForW3CError (C:\Users\asimk\AppData\Local\Programs\Appium Server GUI\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\asimk\AppData\Local\Programs\Appium Server GUI\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:380:37)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'THLASIMK', ip: '192.168.1.36', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.1.1'
+Driver info: driver.version: CreateDriver
+12:04:31,506 INFO  [TestBaseClass] Android Driver created!! Driver details :::null
+12:07:30,468 INFO  [TestBaseClass] Initializing Appium driver for testBedName::: for device Type::Android
+12:07:30,494 INFO  [AppiumLauncher] *************** Starting Appium Server for Android Device::: on OS :::WINDOWS 10
+12:07:35,607 INFO  [AppiumLauncher] Appium Server started successfully on windows 10 for:::Android
+12:07:35,608 INFO  [TestBaseClass] Initializing local driver
+12:07:35,622 INFO  [DeviceCapabilities] Setting Desired capabilities:::
+12:07:35,627 INFO  [DeviceCapabilities] Capabilities for Capabilities {appActivity: com.application.appiumtutor..., appPackage: com.application.appiumtutorial, automationName: uiautomator2, deviceName: OPPO A54, noReset: false, platformName: Android, udid: PZPVSC95GMKNGUBQ}
+12:07:35,639 INFO  [CreateDriver] *****Start createLocalDriver method*******
+12:07:35,640 INFO  [CreateDriver] createLocalDriver ::: serverUrl:::http://127.0.0.1:4723/wd/hub
+12:07:35,640 INFO  [CreateDriver] Driver Capabilities createLocalDriver:::Capabilities {appActivity: com.application.appiumtutor..., appPackage: com.application.appiumtutorial, automationName: uiautomator2, deviceName: OPPO A54, noReset: false, platformName: Android, udid: PZPVSC95GMKNGUBQ}
+12:08:24,189 INFO  [CreateDriver] AppiumDriver successfully created:::createLocalDriver Asimio.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=com.application.appiumtutorial.MainActivity, appPackage=com.application.appiumtutorial, automationName=uiautomator2, databaseEnabled=false, desired={platformName=android, appActivity=com.application.appiumtutorial.MainActivity, appPackage=com.application.appiumtutorial, automationName=uiautomator2, deviceName=OPPO A54, noReset=false, udid=PZPVSC95GMKNGUBQ}, deviceApiLevel=30, deviceManufacturer=OPPO, deviceModel=CPH2239, deviceName=PZPVSC95GMKNGUBQ, deviceScreenDensity=320, deviceScreenSize=720x1600, deviceUDID=PZPVSC95GMKNGUBQ, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, noReset=false, pixelRatio=2, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=72, takesScreenshot=true, udid=PZPVSC95GMKNGUBQ, viewportRect={left=0, top=72, width=720, height=1368}, warnings={}, webStorageEnabled=false}
+12:08:24,190 INFO  [TestBaseClass] Android Driver created!! Driver details :::io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=com.application.appiumtutorial.MainActivity, appPackage=com.application.appiumtutorial, automationName=uiautomator2, databaseEnabled=false, desired={platformName=android, appActivity=com.application.appiumtutorial.MainActivity, appPackage=com.application.appiumtutorial, automationName=uiautomator2, deviceName=OPPO A54, noReset=false, udid=PZPVSC95GMKNGUBQ}, deviceApiLevel=30, deviceManufacturer=OPPO, deviceModel=CPH2239, deviceName=PZPVSC95GMKNGUBQ, deviceScreenDensity=320, deviceScreenSize=720x1600, deviceUDID=PZPVSC95GMKNGUBQ, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, noReset=false, pixelRatio=2, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=72, takesScreenshot=true, udid=PZPVSC95GMKNGUBQ, viewportRect={left=0, top=72, width=720, height=1368}, warnings={}, webStorageEnabled=false}
+12:09:40,736 INFO  [TestBaseClass] Initializing Appium driver for testBedName::: for device Type::Android
+12:09:40,777 INFO  [AppiumLauncher] *************** Starting Appium Server for Android Device::: on OS :::WINDOWS 10
+12:09:45,900 INFO  [AppiumLauncher] Appium Server started successfully on windows 10 for:::Android
+12:09:45,900 INFO  [TestBaseClass] Initializing local driver
+12:09:45,915 INFO  [DeviceCapabilities] Setting Desired capabilities:::
+12:09:45,919 INFO  [DeviceCapabilities] Capabilities for Capabilities {appActivity: com.application.appiumtutor..., appPackage: com.application.appiumtutorial, automationName: uiautomator2, deviceName: OPPO A54, noReset: false, platformName: Android, udid: PZPVSC95GMKNGUBQ}
+12:09:45,930 INFO  [CreateDriver] *****Start createLocalDriver method*******
+12:09:45,931 INFO  [CreateDriver] createLocalDriver ::: serverUrl:::http://127.0.0.1:4723/wd/hub
+12:09:45,931 INFO  [CreateDriver] Driver Capabilities createLocalDriver:::Capabilities {appActivity: com.application.appiumtutor..., appPackage: com.application.appiumtutorial, automationName: uiautomator2, deviceName: OPPO A54, noReset: false, platformName: Android, udid: PZPVSC95GMKNGUBQ}
+12:10:26,747 INFO  [CreateDriver] AppiumDriver successfully created:::createLocalDriver Asimio.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=com.application.appiumtutorial.MainActivity, appPackage=com.application.appiumtutorial, automationName=uiautomator2, databaseEnabled=false, desired={platformName=android, appActivity=com.application.appiumtutorial.MainActivity, appPackage=com.application.appiumtutorial, automationName=uiautomator2, deviceName=OPPO A54, noReset=false, udid=PZPVSC95GMKNGUBQ}, deviceApiLevel=30, deviceManufacturer=OPPO, deviceModel=CPH2239, deviceName=PZPVSC95GMKNGUBQ, deviceScreenDensity=320, deviceScreenSize=720x1600, deviceUDID=PZPVSC95GMKNGUBQ, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, noReset=false, pixelRatio=2, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=72, takesScreenshot=true, udid=PZPVSC95GMKNGUBQ, viewportRect={left=0, top=72, width=720, height=1368}, warnings={}, webStorageEnabled=false}
+12:10:26,747 INFO  [TestBaseClass] Android Driver created!! Driver details :::io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=com.application.appiumtutorial.MainActivity, appPackage=com.application.appiumtutorial, automationName=uiautomator2, databaseEnabled=false, desired={platformName=android, appActivity=com.application.appiumtutorial.MainActivity, appPackage=com.application.appiumtutorial, automationName=uiautomator2, deviceName=OPPO A54, noReset=false, udid=PZPVSC95GMKNGUBQ}, deviceApiLevel=30, deviceManufacturer=OPPO, deviceModel=CPH2239, deviceName=PZPVSC95GMKNGUBQ, deviceScreenDensity=320, deviceScreenSize=720x1600, deviceUDID=PZPVSC95GMKNGUBQ, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, noReset=false, pixelRatio=2, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=72, takesScreenshot=true, udid=PZPVSC95GMKNGUBQ, viewportRect={left=0, top=72, width=720, height=1368}, warnings={}, webStorageEnabled=false}
+12:10:57,008 DEBUG [cache] Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+12:10:57,009 DEBUG [cache] TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+12:10:57,011 DEBUG [cache] TemplateLoader.findTemplateSource("index.ftl"): Found
+12:10:57,011 DEBUG [cache] Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+12:10:57,224 DEBUG [cache] Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+12:10:57,224 DEBUG [cache] TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+12:10:57,225 DEBUG [cache] TemplateLoader.findTemplateSource("head.ftl"): Found
+12:10:57,226 DEBUG [cache] Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+12:10:57,229 DEBUG [cache] Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+12:10:57,229 DEBUG [cache] TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+12:10:57,230 DEBUG [cache] TemplateLoader.findTemplateSource("nav.ftl"): Found
+12:10:57,230 DEBUG [cache] Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+12:10:57,246 DEBUG [cache] Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+12:10:57,247 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+12:10:57,248 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+12:10:57,249 DEBUG [cache] Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+12:10:57,266 DEBUG [cache] Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+12:10:57,267 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+12:10:57,267 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+12:10:57,268 DEBUG [cache] Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+12:10:57,294 DEBUG [cache] Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+12:10:57,295 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+12:10:57,296 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+12:10:57,296 DEBUG [cache] Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+12:10:57,334 DEBUG [cache] Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+12:10:57,334 DEBUG [cache] TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+12:10:57,335 DEBUG [cache] TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+12:10:57,335 DEBUG [cache] Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+12:10:57,339 DEBUG [cache] Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+12:10:57,340 DEBUG [cache] TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+12:10:57,340 DEBUG [cache] TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+12:10:57,341 DEBUG [cache] Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+12:10:57,345 DEBUG [cache] Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+12:10:57,346 DEBUG [cache] TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+12:10:57,347 DEBUG [cache] TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+12:10:57,347 DEBUG [cache] Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+12:10:57,353 DEBUG [cache] Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+12:10:57,355 DEBUG [cache] TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+12:10:57,356 DEBUG [cache] TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+12:10:57,356 DEBUG [cache] Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+12:10:57,365 DEBUG [cache] Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+12:10:57,365 DEBUG [cache] TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+12:10:57,366 DEBUG [cache] TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+12:10:57,366 DEBUG [cache] Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+12:12:05,364 INFO  [TestBaseClass] Initializing Appium driver for testBedName::: for device Type::Android
+12:12:05,392 INFO  [AppiumLauncher] *************** Starting Appium Server for Android Device::: on OS :::WINDOWS 10
+12:12:10,975 INFO  [AppiumLauncher] Appium Server started successfully on windows 10 for:::Android
+12:12:10,975 INFO  [TestBaseClass] Initializing local driver
+12:12:10,990 INFO  [DeviceCapabilities] Setting Desired capabilities:::
+12:12:10,993 INFO  [DeviceCapabilities] Capabilities for Capabilities {appActivity: com.application.appiumtutor..., appPackage: com.application.appiumtutorial, automationName: uiautomator2, deviceName: OPPO A54, noReset: false, platformName: Android, udid: PZPVSC95GMKNGUBQ}
+12:12:11,001 INFO  [CreateDriver] *****Start createLocalDriver method*******
+12:12:11,002 INFO  [CreateDriver] createLocalDriver ::: serverUrl:::http://127.0.0.1:4723/wd/hub
+12:12:11,002 INFO  [CreateDriver] Driver Capabilities createLocalDriver:::Capabilities {appActivity: com.application.appiumtutor..., appPackage: com.application.appiumtutorial, automationName: uiautomator2, deviceName: OPPO A54, noReset: false, platformName: Android, udid: PZPVSC95GMKNGUBQ}
+12:13:18,284 INFO  [CreateDriver] AppiumDriver successfully created:::createLocalDriver Asimio.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=com.application.appiumtutorial.MainActivity, appPackage=com.application.appiumtutorial, automationName=uiautomator2, databaseEnabled=false, desired={platformName=android, appActivity=com.application.appiumtutorial.MainActivity, appPackage=com.application.appiumtutorial, automationName=uiautomator2, deviceName=OPPO A54, noReset=false, udid=PZPVSC95GMKNGUBQ}, deviceApiLevel=30, deviceManufacturer=OPPO, deviceModel=CPH2239, deviceName=PZPVSC95GMKNGUBQ, deviceScreenDensity=320, deviceScreenSize=720x1600, deviceUDID=PZPVSC95GMKNGUBQ, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, noReset=false, pixelRatio=2, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=72, takesScreenshot=true, udid=PZPVSC95GMKNGUBQ, viewportRect={left=0, top=72, width=720, height=1368}, warnings={}, webStorageEnabled=false}
+12:13:18,285 INFO  [TestBaseClass] Android Driver created!! Driver details :::io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=com.application.appiumtutorial.MainActivity, appPackage=com.application.appiumtutorial, automationName=uiautomator2, databaseEnabled=false, desired={platformName=android, appActivity=com.application.appiumtutorial.MainActivity, appPackage=com.application.appiumtutorial, automationName=uiautomator2, deviceName=OPPO A54, noReset=false, udid=PZPVSC95GMKNGUBQ}, deviceApiLevel=30, deviceManufacturer=OPPO, deviceModel=CPH2239, deviceName=PZPVSC95GMKNGUBQ, deviceScreenDensity=320, deviceScreenSize=720x1600, deviceUDID=PZPVSC95GMKNGUBQ, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, noReset=false, pixelRatio=2, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=72, takesScreenshot=true, udid=PZPVSC95GMKNGUBQ, viewportRect={left=0, top=72, width=720, height=1368}, warnings={}, webStorageEnabled=false}
+12:13:48,491 DEBUG [cache] Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+12:13:48,492 DEBUG [cache] TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+12:13:48,495 DEBUG [cache] TemplateLoader.findTemplateSource("index.ftl"): Found
+12:13:48,495 DEBUG [cache] Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+12:13:48,709 DEBUG [cache] Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+12:13:48,710 DEBUG [cache] TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+12:13:48,710 DEBUG [cache] TemplateLoader.findTemplateSource("head.ftl"): Found
+12:13:48,711 DEBUG [cache] Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+12:13:48,715 DEBUG [cache] Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+12:13:48,715 DEBUG [cache] TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+12:13:48,716 DEBUG [cache] TemplateLoader.findTemplateSource("nav.ftl"): Found
+12:13:48,716 DEBUG [cache] Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+12:13:48,732 DEBUG [cache] Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+12:13:48,733 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+12:13:48,734 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+12:13:48,736 DEBUG [cache] Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+12:13:48,747 DEBUG [cache] Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+12:13:48,748 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+12:13:48,750 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+12:13:48,750 DEBUG [cache] Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+12:13:48,771 DEBUG [cache] Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+12:13:48,771 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+12:13:48,772 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+12:13:48,772 DEBUG [cache] Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+12:13:48,793 DEBUG [cache] Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+12:13:48,793 DEBUG [cache] TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+12:13:48,794 DEBUG [cache] TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+12:13:48,794 DEBUG [cache] Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+12:13:48,799 DEBUG [cache] Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+12:13:48,801 DEBUG [cache] TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+12:13:48,802 DEBUG [cache] TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+12:13:48,802 DEBUG [cache] Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+12:13:48,808 DEBUG [cache] Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+12:13:48,808 DEBUG [cache] TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+12:13:48,809 DEBUG [cache] TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+12:13:48,809 DEBUG [cache] Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+12:13:48,813 DEBUG [cache] Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+12:13:48,813 DEBUG [cache] TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+12:13:48,813 DEBUG [cache] TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+12:13:48,814 DEBUG [cache] Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+12:13:48,820 DEBUG [cache] Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+12:13:48,821 DEBUG [cache] TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+12:13:48,822 DEBUG [cache] TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+12:13:48,822 DEBUG [cache] Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+12:25:17,329 INFO  [TestBaseClass] Initializing Appium driver for testBedName::: for device Type::Android
+12:25:17,358 INFO  [AppiumLauncher] *************** Starting Appium Server for Android Device::: on OS :::WINDOWS 10
+12:25:22,224 INFO  [AppiumLauncher] Appium Server started successfully on windows 10 for:::Android
+12:25:22,224 INFO  [TestBaseClass] Initializing local driver
+12:25:22,237 INFO  [DeviceCapabilities] Setting Desired capabilities:::
+12:25:22,241 INFO  [DeviceCapabilities] Capabilities for Capabilities {appActivity: com.application.appiumtutor..., appPackage: com.application.appiumtutorial, automationName: uiautomator2, deviceName: OPPO A54, noReset: false, platformName: Android, udid: PZPVSC95GMKNGUBQ}
+12:25:22,250 INFO  [CreateDriver] *****Start createLocalDriver method*******
+12:25:22,250 INFO  [CreateDriver] createLocalDriver ::: serverUrl:::http://127.0.0.1:4723/wd/hub
+12:25:22,250 INFO  [CreateDriver] Driver Capabilities createLocalDriver:::Capabilities {appActivity: com.application.appiumtutor..., appPackage: com.application.appiumtutorial, automationName: uiautomator2, deviceName: OPPO A54, noReset: false, platformName: Android, udid: PZPVSC95GMKNGUBQ}
+12:25:45,912 ERROR [CreateDriver] Throwable while createLocalDriver:::Unable to create a new remote session. Please check the server log for more details. Original error: An unknown server-side error occurred while processing the command. Original error: Could not find a connected Android device in 21185ms.
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'THLASIMK', ip: '192.168.1.36', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.1.1'
+Driver info: driver.version: CreateDriver
+remote stacktrace: UnknownError: An unknown server-side error occurred while processing the command. Original error: Could not find a connected Android device in 21185ms.
+    at getResponseForW3CError (C:\Users\asimk\AppData\Roaming\npm\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\asimk\AppData\Roaming\npm\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:380:37)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'THLASIMK', ip: '192.168.1.36', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.1.1'
+Driver info: driver.version: CreateDriver
+12:25:45,914 INFO  [TestBaseClass] Android Driver created!! Driver details :::null
+12:26:16,151 DEBUG [cache] Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+12:26:16,152 DEBUG [cache] TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+12:26:16,154 DEBUG [cache] TemplateLoader.findTemplateSource("index.ftl"): Found
+12:26:16,155 DEBUG [cache] Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+12:26:16,375 DEBUG [cache] Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+12:26:16,376 DEBUG [cache] TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+12:26:16,377 DEBUG [cache] TemplateLoader.findTemplateSource("head.ftl"): Found
+12:26:16,377 DEBUG [cache] Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+12:26:16,380 DEBUG [cache] Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+12:26:16,381 DEBUG [cache] TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+12:26:16,382 DEBUG [cache] TemplateLoader.findTemplateSource("nav.ftl"): Found
+12:26:16,382 DEBUG [cache] Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+12:26:16,395 DEBUG [cache] Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+12:26:16,395 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+12:26:16,395 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+12:26:16,396 DEBUG [cache] Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+12:26:16,410 DEBUG [cache] Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+12:26:16,410 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+12:26:16,411 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+12:26:16,411 DEBUG [cache] Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+12:26:16,434 DEBUG [cache] Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+12:26:16,435 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+12:26:16,436 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+12:26:16,436 DEBUG [cache] Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+12:26:16,458 DEBUG [cache] Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+12:26:16,459 DEBUG [cache] TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+12:26:16,459 DEBUG [cache] TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+12:26:16,459 DEBUG [cache] Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+12:26:16,469 DEBUG [cache] Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+12:26:16,470 DEBUG [cache] TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+12:26:16,471 DEBUG [cache] TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+12:26:16,471 DEBUG [cache] Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+12:26:16,478 DEBUG [cache] Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+12:26:16,478 DEBUG [cache] TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+12:26:16,479 DEBUG [cache] TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+12:26:16,479 DEBUG [cache] Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+12:26:16,484 DEBUG [cache] Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+12:26:16,485 DEBUG [cache] TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+12:26:16,485 DEBUG [cache] TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+12:26:16,486 DEBUG [cache] Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+12:26:16,492 DEBUG [cache] Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+12:26:16,492 DEBUG [cache] TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+12:26:16,493 DEBUG [cache] TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+12:26:16,493 DEBUG [cache] Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+12:26:30,867 INFO  [TestBaseClass] Initializing Appium driver for testBedName::: for device Type::Android
+12:26:30,895 INFO  [AppiumLauncher] *************** Starting Appium Server for Android Device::: on OS :::WINDOWS 10
+12:26:37,931 INFO  [AppiumLauncher] Appium Server started successfully on windows 10 for:::Android
+12:26:37,932 INFO  [TestBaseClass] Initializing local driver
+12:26:37,947 INFO  [DeviceCapabilities] Setting Desired capabilities:::
+12:26:37,950 INFO  [DeviceCapabilities] Capabilities for Capabilities {appActivity: com.application.appiumtutor..., appPackage: com.application.appiumtutorial, automationName: uiautomator2, deviceName: OPPO A54, noReset: false, platformName: Android, udid: PZPVSC95GMKNGUBQ}
+12:26:37,960 INFO  [CreateDriver] *****Start createLocalDriver method*******
+12:26:37,960 INFO  [CreateDriver] createLocalDriver ::: serverUrl:::http://127.0.0.1:4723/wd/hub
+12:26:37,960 INFO  [CreateDriver] Driver Capabilities createLocalDriver:::Capabilities {appActivity: com.application.appiumtutor..., appPackage: com.application.appiumtutorial, automationName: uiautomator2, deviceName: OPPO A54, noReset: false, platformName: Android, udid: PZPVSC95GMKNGUBQ}
+12:26:51,885 ERROR [CreateDriver] Throwable while createLocalDriver:::Unable to create a new remote session. Please check the server log for more details. Original error: An unknown server-side error occurred while processing the command. Original error: Error getting device API level. Original error: Error executing adbExec. Original error: 'Command 'C:\\Android\\platform-tools\\adb.exe -P 5037 -s PZPVSC95GMKNGUBQ shell getprop ro.build.version.sdk' exited with code 1'; Command output: adb.exe: device unauthorized.
+This adb server's $ADB_VENDOR_KEYS is not set
+Try 'adb kill-server' if that seems wrong.
+Otherwise check for a confirmation dialog on your device.
+
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'THLASIMK', ip: '192.168.1.36', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.1.1'
+Driver info: driver.version: CreateDriver
+remote stacktrace: UnknownError: An unknown server-side error occurred while processing the command. Original error: Error getting device API level. Original error: Error executing adbExec. Original error: 'Command 'C:\\Android\\platform-tools\\adb.exe -P 5037 -s PZPVSC95GMKNGUBQ shell getprop ro.build.version.sdk' exited with code 1'; Command output: adb.exe: device unauthorized.
+This adb server's $ADB_VENDOR_KEYS is not set
+Try 'adb kill-server' if that seems wrong.
+Otherwise check for a confirmation dialog on your device.
+
+    at getResponseForW3CError (C:\Users\asimk\AppData\Roaming\npm\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\asimk\AppData\Roaming\npm\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:380:37)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'THLASIMK', ip: '192.168.1.36', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.1.1'
+Driver info: driver.version: CreateDriver
+12:26:51,886 INFO  [TestBaseClass] Android Driver created!! Driver details :::null
+12:27:22,125 DEBUG [cache] Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+12:27:22,126 DEBUG [cache] TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+12:27:22,129 DEBUG [cache] TemplateLoader.findTemplateSource("index.ftl"): Found
+12:27:22,129 DEBUG [cache] Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+12:27:22,359 DEBUG [cache] Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+12:27:22,360 DEBUG [cache] TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+12:27:22,361 DEBUG [cache] TemplateLoader.findTemplateSource("head.ftl"): Found
+12:27:22,361 DEBUG [cache] Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+12:27:22,366 DEBUG [cache] Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+12:27:22,367 DEBUG [cache] TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+12:27:22,367 DEBUG [cache] TemplateLoader.findTemplateSource("nav.ftl"): Found
+12:27:22,367 DEBUG [cache] Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+12:27:22,376 DEBUG [cache] Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+12:27:22,377 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+12:27:22,377 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+12:27:22,377 DEBUG [cache] Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+12:27:22,387 DEBUG [cache] Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+12:27:22,388 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+12:27:22,388 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+12:27:22,388 DEBUG [cache] Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+12:27:22,407 DEBUG [cache] Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+12:27:22,408 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+12:27:22,408 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+12:27:22,408 DEBUG [cache] Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+12:27:22,428 DEBUG [cache] Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+12:27:22,428 DEBUG [cache] TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+12:27:22,429 DEBUG [cache] TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+12:27:22,429 DEBUG [cache] Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+12:27:22,433 DEBUG [cache] Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+12:27:22,434 DEBUG [cache] TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+12:27:22,434 DEBUG [cache] TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+12:27:22,434 DEBUG [cache] Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+12:27:22,439 DEBUG [cache] Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+12:27:22,440 DEBUG [cache] TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+12:27:22,440 DEBUG [cache] TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+12:27:22,441 DEBUG [cache] Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+12:27:22,445 DEBUG [cache] Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+12:27:22,445 DEBUG [cache] TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+12:27:22,446 DEBUG [cache] TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+12:27:22,446 DEBUG [cache] Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+12:27:22,451 DEBUG [cache] Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+12:27:22,451 DEBUG [cache] TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+12:27:22,452 DEBUG [cache] TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+12:27:22,452 DEBUG [cache] Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+12:35:31,307 INFO  [TestBaseClass] Initializing Appium driver for testBedName::: for device Type::Android
+12:35:31,338 INFO  [AppiumLauncher] *************** Starting Appium Server for Android Device::: on OS :::WINDOWS 10
+12:35:38,718 INFO  [AppiumLauncher] Appium Server started successfully on windows 10 for:::Android
+12:35:38,719 INFO  [TestBaseClass] Initializing local driver
+12:35:38,736 INFO  [DeviceCapabilities] Setting Desired capabilities:::
+12:35:38,741 INFO  [DeviceCapabilities] Capabilities for Capabilities {appActivity: com.application.appiumtutor..., appPackage: com.application.appiumtutorial, automationName: uiautomator2, deviceName: OPPO A54, noReset: false, platformName: Android, udid: PZPVSC95GMKNGUBQ}
+12:35:38,805 INFO  [CreateDriver] *****Start createLocalDriver method*******
+12:35:38,806 INFO  [CreateDriver] createLocalDriver ::: serverUrl:::http://127.0.0.1:4723/wd/hub
+12:35:38,806 INFO  [CreateDriver] Driver Capabilities createLocalDriver:::Capabilities {appActivity: com.application.appiumtutor..., appPackage: com.application.appiumtutorial, automationName: uiautomator2, deviceName: OPPO A54, noReset: false, platformName: Android, udid: PZPVSC95GMKNGUBQ}
+12:36:16,340 INFO  [CreateDriver] AppiumDriver successfully created:::createLocalDriver Asimio.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=com.application.appiumtutorial.MainActivity, appPackage=com.application.appiumtutorial, automationName=uiautomator2, databaseEnabled=false, desired={platformName=android, appActivity=com.application.appiumtutorial.MainActivity, appPackage=com.application.appiumtutorial, automationName=uiautomator2, deviceName=OPPO A54, noReset=false, udid=PZPVSC95GMKNGUBQ}, deviceApiLevel=30, deviceManufacturer=OPPO, deviceModel=CPH2239, deviceName=PZPVSC95GMKNGUBQ, deviceScreenDensity=320, deviceScreenSize=720x1600, deviceUDID=PZPVSC95GMKNGUBQ, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, noReset=false, pixelRatio=2, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=72, takesScreenshot=true, udid=PZPVSC95GMKNGUBQ, viewportRect={left=0, top=72, width=720, height=1368}, warnings={}, webStorageEnabled=false}
+12:36:16,340 INFO  [TestBaseClass] Android Driver created!! Driver details :::io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=com.application.appiumtutorial.MainActivity, appPackage=com.application.appiumtutorial, automationName=uiautomator2, databaseEnabled=false, desired={platformName=android, appActivity=com.application.appiumtutorial.MainActivity, appPackage=com.application.appiumtutorial, automationName=uiautomator2, deviceName=OPPO A54, noReset=false, udid=PZPVSC95GMKNGUBQ}, deviceApiLevel=30, deviceManufacturer=OPPO, deviceModel=CPH2239, deviceName=PZPVSC95GMKNGUBQ, deviceScreenDensity=320, deviceScreenSize=720x1600, deviceUDID=PZPVSC95GMKNGUBQ, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, noReset=false, pixelRatio=2, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=72, takesScreenshot=true, udid=PZPVSC95GMKNGUBQ, viewportRect={left=0, top=72, width=720, height=1368}, warnings={}, webStorageEnabled=false}
+12:36:46,561 DEBUG [cache] Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+12:36:46,563 DEBUG [cache] TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+12:36:46,565 DEBUG [cache] TemplateLoader.findTemplateSource("index.ftl"): Found
+12:36:46,565 DEBUG [cache] Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+12:36:46,775 DEBUG [cache] Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+12:36:46,776 DEBUG [cache] TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+12:36:46,776 DEBUG [cache] TemplateLoader.findTemplateSource("head.ftl"): Found
+12:36:46,776 DEBUG [cache] Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+12:36:46,781 DEBUG [cache] Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+12:36:46,781 DEBUG [cache] TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+12:36:46,781 DEBUG [cache] TemplateLoader.findTemplateSource("nav.ftl"): Found
+12:36:46,781 DEBUG [cache] Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+12:36:46,789 DEBUG [cache] Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+12:36:46,790 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+12:36:46,791 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+12:36:46,791 DEBUG [cache] Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+12:36:46,803 DEBUG [cache] Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+12:36:46,803 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+12:36:46,804 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+12:36:46,804 DEBUG [cache] Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+12:36:46,825 DEBUG [cache] Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+12:36:46,826 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+12:36:46,827 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+12:36:46,827 DEBUG [cache] Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+12:36:46,844 DEBUG [cache] Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+12:36:46,845 DEBUG [cache] TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+12:36:46,846 DEBUG [cache] TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+12:36:46,846 DEBUG [cache] Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+12:36:46,851 DEBUG [cache] Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+12:36:46,851 DEBUG [cache] TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+12:36:46,852 DEBUG [cache] TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+12:36:46,852 DEBUG [cache] Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+12:36:46,859 DEBUG [cache] Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+12:36:46,860 DEBUG [cache] TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+12:36:46,860 DEBUG [cache] TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+12:36:46,861 DEBUG [cache] Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+12:36:46,865 DEBUG [cache] Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+12:36:46,875 DEBUG [cache] TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+12:36:46,876 DEBUG [cache] TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+12:36:46,877 DEBUG [cache] Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+12:36:46,893 DEBUG [cache] Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+12:36:46,894 DEBUG [cache] TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+12:36:46,895 DEBUG [cache] TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+12:36:46,895 DEBUG [cache] Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+13:41:10,386 INFO  [TestBaseClass] Initializing Appium driver for testBedName::: for device Type::Android
+13:41:10,447 INFO  [AppiumLauncher] *************** Starting Appium Server for Android Device::: on OS :::WINDOWS 10
+13:41:17,478 INFO  [AppiumLauncher] Appium Server started successfully on windows 10 for:::Android
+13:41:17,478 INFO  [TestBaseClass] Initializing local driver
+13:41:17,495 INFO  [DeviceCapabilities] Setting Desired capabilities:::
+13:41:17,501 INFO  [DeviceCapabilities] Capabilities for Capabilities {appActivity: com.application.appiumtutor..., appPackage: com.application.appiumtutorial, automationName: uiautomator2, deviceName: OPPO A54, noReset: false, platformName: Android, udid: PZPVSC95GMKNGUBQ}
+13:41:17,568 INFO  [CreateDriver] *****Start createLocalDriver method*******
+13:41:17,568 INFO  [CreateDriver] createLocalDriver ::: serverUrl:::http://127.0.0.1:4723/wd/hub
+13:41:17,569 INFO  [CreateDriver] Driver Capabilities createLocalDriver:::Capabilities {appActivity: com.application.appiumtutor..., appPackage: com.application.appiumtutorial, automationName: uiautomator2, deviceName: OPPO A54, noReset: false, platformName: Android, udid: PZPVSC95GMKNGUBQ}
+13:41:54,448 INFO  [CreateDriver] AppiumDriver successfully created:::createLocalDriver Asimio.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=com.application.appiumtutorial.MainActivity, appPackage=com.application.appiumtutorial, automationName=uiautomator2, databaseEnabled=false, desired={platformName=android, appActivity=com.application.appiumtutorial.MainActivity, appPackage=com.application.appiumtutorial, automationName=uiautomator2, deviceName=OPPO A54, noReset=false, udid=PZPVSC95GMKNGUBQ}, deviceApiLevel=30, deviceManufacturer=OPPO, deviceModel=CPH2239, deviceName=PZPVSC95GMKNGUBQ, deviceScreenDensity=320, deviceScreenSize=720x1600, deviceUDID=PZPVSC95GMKNGUBQ, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, noReset=false, pixelRatio=2, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=72, takesScreenshot=true, udid=PZPVSC95GMKNGUBQ, viewportRect={left=0, top=72, width=720, height=1368}, warnings={}, webStorageEnabled=false}
+13:41:54,449 INFO  [TestBaseClass] Android Driver created!! Driver details :::io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=com.application.appiumtutorial.MainActivity, appPackage=com.application.appiumtutorial, automationName=uiautomator2, databaseEnabled=false, desired={platformName=android, appActivity=com.application.appiumtutorial.MainActivity, appPackage=com.application.appiumtutorial, automationName=uiautomator2, deviceName=OPPO A54, noReset=false, udid=PZPVSC95GMKNGUBQ}, deviceApiLevel=30, deviceManufacturer=OPPO, deviceModel=CPH2239, deviceName=PZPVSC95GMKNGUBQ, deviceScreenDensity=320, deviceScreenSize=720x1600, deviceUDID=PZPVSC95GMKNGUBQ, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, noReset=false, pixelRatio=2, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=72, takesScreenshot=true, udid=PZPVSC95GMKNGUBQ, viewportRect={left=0, top=72, width=720, height=1368}, warnings={}, webStorageEnabled=false}
+13:42:24,737 DEBUG [cache] Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+13:42:24,738 DEBUG [cache] TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+13:42:24,741 DEBUG [cache] TemplateLoader.findTemplateSource("index.ftl"): Found
+13:42:24,741 DEBUG [cache] Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+13:42:24,977 DEBUG [cache] Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+13:42:24,978 DEBUG [cache] TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+13:42:24,979 DEBUG [cache] TemplateLoader.findTemplateSource("head.ftl"): Found
+13:42:24,980 DEBUG [cache] Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+13:42:24,984 DEBUG [cache] Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+13:42:24,984 DEBUG [cache] TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+13:42:24,984 DEBUG [cache] TemplateLoader.findTemplateSource("nav.ftl"): Found
+13:42:24,985 DEBUG [cache] Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+13:42:24,997 DEBUG [cache] Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+13:42:24,997 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+13:42:24,998 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+13:42:24,998 DEBUG [cache] Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+13:42:25,009 DEBUG [cache] Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+13:42:25,010 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+13:42:25,011 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+13:42:25,011 DEBUG [cache] Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+13:42:25,027 DEBUG [cache] Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+13:42:25,028 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+13:42:25,028 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+13:42:25,028 DEBUG [cache] Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+13:42:25,048 DEBUG [cache] Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+13:42:25,049 DEBUG [cache] TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+13:42:25,049 DEBUG [cache] TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+13:42:25,049 DEBUG [cache] Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+13:42:25,056 DEBUG [cache] Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+13:42:25,056 DEBUG [cache] TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+13:42:25,057 DEBUG [cache] TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+13:42:25,058 DEBUG [cache] Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+13:42:25,063 DEBUG [cache] Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+13:42:25,064 DEBUG [cache] TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+13:42:25,064 DEBUG [cache] TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+13:42:25,065 DEBUG [cache] Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+13:42:25,071 DEBUG [cache] Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+13:42:25,072 DEBUG [cache] TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+13:42:25,073 DEBUG [cache] TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+13:42:25,074 DEBUG [cache] Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+13:42:25,087 DEBUG [cache] Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+13:42:25,089 DEBUG [cache] TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+13:42:25,090 DEBUG [cache] TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+13:42:25,090 DEBUG [cache] Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"

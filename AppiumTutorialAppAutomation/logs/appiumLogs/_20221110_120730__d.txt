@@ -1,0 +1,99 @@
+2022-11-10 06:37:36:479 [Appium] Welcome to Appium v1.23.0-beta.0
+2022-11-10 06:37:36:482 [Appium] Non-default server args:
+2022-11-10 06:37:36:483 [Appium]   address: 127.0.0.1
+2022-11-10 06:37:36:484 [Appium]   logFile: C:\Users\asimk\Appium-Demo\Appium_Demo\AppiumTutorialAppAutomation\logs\appiumLogs\_20221110_120730__d.txt
+2022-11-10 06:37:36:485 [Appium]   loglevel: info
+2022-11-10 06:37:36:486 [Appium]   suppressKillServer: true
+2022-11-10 06:37:36:544 [Appium] Appium REST http interface listener started on 127.0.0.1:4723
+2022-11-10 06:39:40:970 [HTTP] --> GET /wd/hub/status
+2022-11-10 06:39:40:971 [HTTP] {}
+2022-11-10 06:39:41:046 uncaughtException: EPIPE: broken pipe, write
+Error: EPIPE: broken pipe, write
+    at Socket._write (node:internal/net:55:25)
+    at writeOrBuffer (node:internal/streams/writable:390:12)
+    at _write (node:internal/streams/writable:331:10)
+    at Socket.Writable.write (node:internal/streams/writable:335:10)
+    at Console.log (C:\Users\asimk\AppData\Roaming\npm\node_modules\appium\node_modules\winston\lib\winston\transports\console.js:79:23)
+    at Console._write (C:\Users\asimk\AppData\Roaming\npm\node_modules\appium\node_modules\winston-transport\index.js:103:17)
+    at doWrite (C:\Users\asimk\AppData\Roaming\npm\node_modules\appium\node_modules\readable-stream\lib\_stream_writable.js:409:139)
+    at writeOrBuffer (C:\Users\asimk\AppData\Roaming\npm\node_modules\appium\node_modules\readable-stream\lib\_stream_writable.js:398:5)
+    at Console.Writable.write (C:\Users\asimk\AppData\Roaming\npm\node_modules\appium\node_modules\readable-stream\lib\_stream_writable.js:307:11)
+    at DerivedLogger.ondata (C:\Users\asimk\AppData\Roaming\npm\node_modules\appium\node_modules\readable-stream\lib\_stream_readable.js:681:20)
+    at DerivedLogger.emit (node:events:539:35)
+    at addChunk (C:\Users\asimk\AppData\Roaming\npm\node_modules\appium\node_modules\readable-stream\lib\_stream_readable.js:298:12)
+    at readableAddChunk (C:\Users\asimk\AppData\Roaming\npm\node_modules\appium\node_modules\readable-stream\lib\_stream_readable.js:280:11)
+    at DerivedLogger.Readable.push (C:\Users\asimk\AppData\Roaming\npm\node_modules\appium\node_modules\readable-stream\lib\_stream_readable.js:241:10)
+    at DerivedLogger.Transform.push (C:\Users\asimk\AppData\Roaming\npm\node_modules\appium\node_modules\readable-stream\lib\_stream_transform.js:139:32)
+    at DerivedLogger._transform (C:\Users\asimk\AppData\Roaming\npm\node_modules\appium\node_modules\winston\lib\winston\logger.js:313:12)
+2022-11-10 06:39:41:053 uncaughtException: EPIPE: broken pipe, write
+Error: EPIPE: broken pipe, write
+    at Socket._write (node:internal/net:55:25)
+    at writeOrBuffer (node:internal/streams/writable:390:12)
+    at _write (node:internal/streams/writable:331:10)
+    at Socket.Writable.write (node:internal/streams/writable:335:10)
+    at Console.log (C:\Users\asimk\AppData\Roaming\npm\node_modules\appium\node_modules\winston\lib\winston\transports\console.js:51:25)
+    at Console._write (C:\Users\asimk\AppData\Roaming\npm\node_modules\appium\node_modules\winston-transport\index.js:103:17)
+    at doWrite (C:\Users\asimk\AppData\Roaming\npm\node_modules\appium\node_modules\readable-stream\lib\_stream_writable.js:409:139)
+    at writeOrBuffer (C:\Users\asimk\AppData\Roaming\npm\node_modules\appium\node_modules\readable-stream\lib\_stream_writable.js:398:5)
+    at Console.Writable.write (C:\Users\asimk\AppData\Roaming\npm\node_modules\appium\node_modules\readable-stream\lib\_stream_writable.js:307:11)
+    at DerivedLogger.ondata (C:\Users\asimk\AppData\Roaming\npm\node_modules\appium\node_modules\readable-stream\lib\_stream_readable.js:681:20)
+    at DerivedLogger.emit (node:events:539:35)
+    at addChunk (C:\Users\asimk\AppData\Roaming\npm\node_modules\appium\node_modules\readable-stream\lib\_stream_readable.js:298:12)
+    at readableAddChunk (C:\Users\asimk\AppData\Roaming\npm\node_modules\appium\node_modules\readable-stream\lib\_stream_readable.js:280:11)
+    at DerivedLogger.Readable.push (C:\Users\asimk\AppData\Roaming\npm\node_modules\appium\node_modules\readable-stream\lib\_stream_readable.js:241:10)
+    at DerivedLogger.Transform.push (C:\Users\asimk\AppData\Roaming\npm\node_modules\appium\node_modules\readable-stream\lib\_stream_transform.js:139:32)
+    at DerivedLogger._transform (C:\Users\asimk\AppData\Roaming\npm\node_modules\appium\node_modules\winston\lib\winston\logger.js:313:12)
+2022-11-10 06:39:41:060 uncaughtException: EPIPE: broken pipe, write
+Error: EPIPE: broken pipe, write
+    at Socket._write (node:internal/net:55:25)
+    at writeOrBuffer (node:internal/streams/writable:390:12)
+    at _write (node:internal/streams/writable:331:10)
+    at Socket.Writable.write (node:internal/streams/writable:335:10)
+    at Console.log (C:\Users\asimk\AppData\Roaming\npm\node_modules\appium\node_modules\winston\lib\winston\transports\console.js:51:25)
+    at Console._write (C:\Users\asimk\AppData\Roaming\npm\node_modules\appium\node_modules\winston-transport\index.js:103:17)
+    at doWrite (C:\Users\asimk\AppData\Roaming\npm\node_modules\appium\node_modules\readable-stream\lib\_stream_writable.js:409:139)
+    at writeOrBuffer (C:\Users\asimk\AppData\Roaming\npm\node_modules\appium\node_modules\readable-stream\lib\_stream_writable.js:398:5)
+    at Console.Writable.write (C:\Users\asimk\AppData\Roaming\npm\node_modules\appium\node_modules\readable-stream\lib\_stream_writable.js:307:11)
+    at DerivedLogger.ondata (C:\Users\asimk\AppData\Roaming\npm\node_modules\appium\node_modules\readable-stream\lib\_stream_readable.js:681:20)
+    at DerivedLogger.emit (node:events:539:35)
+    at addChunk (C:\Users\asimk\AppData\Roaming\npm\node_modules\appium\node_modules\readable-stream\lib\_stream_readable.js:298:12)
+    at readableAddChunk (C:\Users\asimk\AppData\Roaming\npm\node_modules\appium\node_modules\readable-stream\lib\_stream_readable.js:280:11)
+    at DerivedLogger.Readable.push (C:\Users\asimk\AppData\Roaming\npm\node_modules\appium\node_modules\readable-stream\lib\_stream_readable.js:241:10)
+    at DerivedLogger.Transform.push (C:\Users\asimk\AppData\Roaming\npm\node_modules\appium\node_modules\readable-stream\lib\_stream_transform.js:139:32)
+    at DerivedLogger._transform (C:\Users\asimk\AppData\Roaming\npm\node_modules\appium\node_modules\winston\lib\winston\logger.js:313:12)
+2022-11-10 06:39:41:065 uncaughtException: EPIPE: broken pipe, write
+Error: EPIPE: broken pipe, write
+    at Socket._write (node:internal/net:55:25)
+    at writeOrBuffer (node:internal/streams/writable:390:12)
+    at _write (node:internal/streams/writable:331:10)
+    at Socket.Writable.write (node:internal/streams/writable:335:10)
+    at Console.log (C:\Users\asimk\AppData\Roaming\npm\node_modules\appium\node_modules\winston\lib\winston\transports\console.js:51:25)
+    at Console._write (C:\Users\asimk\AppData\Roaming\npm\node_modules\appium\node_modules\winston-transport\index.js:103:17)
+    at doWrite (C:\Users\asimk\AppData\Roaming\npm\node_modules\appium\node_modules\readable-stream\lib\_stream_writable.js:409:139)
+    at writeOrBuffer (C:\Users\asimk\AppData\Roaming\npm\node_modules\appium\node_modules\readable-stream\lib\_stream_writable.js:398:5)
+    at Console.Writable.write (C:\Users\asimk\AppData\Roaming\npm\node_modules\appium\node_modules\readable-stream\lib\_stream_writable.js:307:11)
+    at DerivedLogger.ondata (C:\Users\asimk\AppData\Roaming\npm\node_modules\appium\node_modules\readable-stream\lib\_stream_readable.js:681:20)
+    at DerivedLogger.emit (node:events:539:35)
+    at addChunk (C:\Users\asimk\AppData\Roaming\npm\node_modules\appium\node_modules\readable-stream\lib\_stream_readable.js:298:12)
+    at readableAddChunk (C:\Users\asimk\AppData\Roaming\npm\node_modules\appium\node_modules\readable-stream\lib\_stream_readable.js:280:11)
+    at DerivedLogger.Readable.push (C:\Users\asimk\AppData\Roaming\npm\node_modules\appium\node_modules\readable-stream\lib\_stream_readable.js:241:10)
+    at DerivedLogger.Transform.push (C:\Users\asimk\AppData\Roaming\npm\node_modules\appium\node_modules\readable-stream\lib\_stream_transform.js:139:32)
+    at DerivedLogger._transform (C:\Users\asimk\AppData\Roaming\npm\node_modules\appium\node_modules\winston\lib\winston\logger.js:313:12)
+2022-11-10 06:39:41:072 uncaughtException: EPIPE: broken pipe, write
+Error: EPIPE: broken pipe, write
+    at Socket._write (node:internal/net:55:25)
+    at writeOrBuffer (node:internal/streams/writable:390:12)
+    at _write (node:internal/streams/writable:331:10)
+    at Socket.Writable.write (node:internal/streams/writable:335:10)
+    at Console.log (C:\Users\asimk\AppData\Roaming\npm\node_modules\appium\node_modules\winston\lib\winston\transports\console.js:51:25)
+    at Console._write (C:\Users\asimk\AppData\Roaming\npm\node_modules\appium\node_modules\winston-transport\index.js:103:17)
+    at doWrite (C:\Users\asimk\AppData\Roaming\npm\node_modules\appium\node_modules\readable-stream\lib\_stream_writable.js:409:139)
+    at writeOrBuffer (C:\Users\asimk\AppData\Roaming\npm\node_modules\appium\node_modules\readable-stream\lib\_stream_writable.js:398:5)
+    at Console.Writable.write (C:\Users\asimk\AppData\Roaming\npm\node_modules\appium\node_modules\readable-stream\lib\_stream_writable.js:307:11)
+    at DerivedLogger.ondata (C:\Users\asimk\AppData\Roaming\npm\node_modules\appium\node_modules\readable-stream\lib\_stream_readable.js:681:20)
+    at DerivedLogger.emit (node:events:539:35)
+    at addChunk (C:\Users\asimk\AppData\Roaming\npm\node_modules\appium\node_modules\readable-stream\lib\_stream_readable.js:298:12)
+    at readableAddChunk (C:\Users\asimk\AppData\Roaming\npm\node_modules\appium\node_modules\readable-stream\lib\_stream_readable.js:280:11)
+    at DerivedLogger.Readable.push (C:\Users\asimk\AppData\Roaming\npm\node_modules\appium\node_modules\readable-stream\lib\_stream_readable.js:241:10)
+    at DerivedLogger.Transform.push (C:\Users\asimk\AppData\Roaming\npm\node_modules\appium\node_modules\readable-stream\lib\_stream_transform.js:139:32)
+    at DerivedLogger._transform (C:\Users\asimk\AppData\Roaming\npm\node_modules\appium\node_modules\winston\lib\winston\logger.js:313:12)
