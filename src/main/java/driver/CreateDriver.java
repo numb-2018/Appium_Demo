@@ -91,11 +91,11 @@ public class CreateDriver {
 	/**
 	 * Method to get driver
 	 */
-		public static AppiumDriver<?> getDriver(DesiredCapabilities capabilities) {
+		public static AndroidDriver<?> getDriver(DesiredCapabilities capabilities) {
 		if (driver == null){
 			createLocalDriver(capabilities);
 		}
-		return driver;
+		return (AndroidDriver<?>) driver;
 
 		}
 	

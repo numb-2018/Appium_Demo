@@ -1116,3 +1116,664 @@ Driver info: driver.version: CreateDriver
 13:42:25,089 DEBUG [cache] TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
 13:42:25,090 DEBUG [cache] TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
 13:42:25,090 DEBUG [cache] Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+20:24:52,414 INFO  [TestBaseClass] Initializing Appium driver for testBedName::: for device Type::Android
+20:24:52,453 INFO  [AppiumLauncher] *************** Starting Appium Server for Android Device::: on OS :::WINDOWS 10
+20:25:01,783 INFO  [AppiumLauncher] Appium Server started successfully on windows 10 for:::Android
+20:25:01,783 INFO  [TestBaseClass] Initializing local driver
+20:25:01,800 INFO  [DeviceCapabilities] Setting Desired capabilities:::
+20:25:01,808 INFO  [DeviceCapabilities] Capabilities for Capabilities {appActivity: com.application.appiumtutor..., appPackage: com.application.appiumtutorial, automationName: uiautomator2, deviceName: OPPO A54, noReset: false, platformName: Android, udid: PZPVSC95GMKNGUBQ}
+20:25:01,859 INFO  [CreateDriver] *****Start createLocalDriver method*******
+20:25:01,860 INFO  [CreateDriver] createLocalDriver ::: serverUrl:::http://127.0.0.1:4723/wd/hub
+20:25:01,860 INFO  [CreateDriver] Driver Capabilities createLocalDriver:::Capabilities {appActivity: com.application.appiumtutor..., appPackage: com.application.appiumtutorial, automationName: uiautomator2, deviceName: OPPO A54, noReset: false, platformName: Android, udid: PZPVSC95GMKNGUBQ}
+20:25:41,802 INFO  [CreateDriver] AppiumDriver successfully created:::createLocalDriver Asimio.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=com.application.appiumtutorial.MainActivity, appPackage=com.application.appiumtutorial, automationName=uiautomator2, databaseEnabled=false, desired={platformName=android, appActivity=com.application.appiumtutorial.MainActivity, appPackage=com.application.appiumtutorial, automationName=uiautomator2, deviceName=OPPO A54, noReset=false, udid=PZPVSC95GMKNGUBQ}, deviceApiLevel=30, deviceManufacturer=OPPO, deviceModel=CPH2239, deviceName=PZPVSC95GMKNGUBQ, deviceScreenDensity=320, deviceScreenSize=720x1600, deviceUDID=PZPVSC95GMKNGUBQ, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, noReset=false, pixelRatio=2, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=72, takesScreenshot=true, udid=PZPVSC95GMKNGUBQ, viewportRect={left=0, top=72, width=720, height=1368}, warnings={}, webStorageEnabled=false}
+20:25:41,803 INFO  [TestBaseClass] Android Driver created!! Driver details :::io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=com.application.appiumtutorial.MainActivity, appPackage=com.application.appiumtutorial, automationName=uiautomator2, databaseEnabled=false, desired={platformName=android, appActivity=com.application.appiumtutorial.MainActivity, appPackage=com.application.appiumtutorial, automationName=uiautomator2, deviceName=OPPO A54, noReset=false, udid=PZPVSC95GMKNGUBQ}, deviceApiLevel=30, deviceManufacturer=OPPO, deviceModel=CPH2239, deviceName=PZPVSC95GMKNGUBQ, deviceScreenDensity=320, deviceScreenSize=720x1600, deviceUDID=PZPVSC95GMKNGUBQ, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, noReset=false, pixelRatio=2, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=72, takesScreenshot=true, udid=PZPVSC95GMKNGUBQ, viewportRect={left=0, top=72, width=720, height=1368}, warnings={}, webStorageEnabled=false}
+20:25:42,067 INFO  [TestBaseClass] Waiting for Visibility of Element having locator::null
+20:25:42,073 ERROR [TestBaseClass] Element not visible for locator ::null
+20:25:42,075 INFO  [TestBaseClass] Clicking on Element having locator:::null
+20:25:42,075 INFO  [TestBaseClass] Unable to click on Sign Up Button
+20:25:54,782 DEBUG [cache] Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+20:25:54,784 DEBUG [cache] TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+20:25:54,788 DEBUG [cache] TemplateLoader.findTemplateSource("index.ftl"): Found
+20:25:54,788 DEBUG [cache] Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+20:25:55,144 DEBUG [cache] Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+20:25:55,145 DEBUG [cache] TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+20:25:55,146 DEBUG [cache] TemplateLoader.findTemplateSource("head.ftl"): Found
+20:25:55,146 DEBUG [cache] Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+20:25:55,150 DEBUG [cache] Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+20:25:55,150 DEBUG [cache] TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+20:25:55,151 DEBUG [cache] TemplateLoader.findTemplateSource("nav.ftl"): Found
+20:25:55,151 DEBUG [cache] Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+20:25:55,162 DEBUG [cache] Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+20:25:55,163 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+20:25:55,163 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+20:25:55,163 DEBUG [cache] Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+20:25:55,176 DEBUG [cache] Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+20:25:55,176 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+20:25:55,177 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+20:25:55,177 DEBUG [cache] Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+20:25:55,197 DEBUG [cache] Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+20:25:55,197 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+20:25:55,198 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+20:25:55,198 DEBUG [cache] Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+20:25:55,223 DEBUG [cache] Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+20:25:55,224 DEBUG [cache] TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+20:25:55,225 DEBUG [cache] TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+20:25:55,225 DEBUG [cache] Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+20:25:55,232 DEBUG [cache] Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+20:25:55,232 DEBUG [cache] TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+20:25:55,233 DEBUG [cache] TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+20:25:55,233 DEBUG [cache] Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+20:25:55,238 DEBUG [cache] Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+20:25:55,238 DEBUG [cache] TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+20:25:55,238 DEBUG [cache] TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+20:25:55,239 DEBUG [cache] Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+20:25:55,242 DEBUG [cache] Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+20:25:55,243 DEBUG [cache] TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+20:25:55,243 DEBUG [cache] TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+20:25:55,243 DEBUG [cache] Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+20:25:55,249 DEBUG [cache] Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+20:25:55,250 DEBUG [cache] TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+20:25:55,251 DEBUG [cache] TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+20:25:55,251 DEBUG [cache] Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+20:30:21,727 INFO  [TestBaseClass] Initializing Appium driver for testBedName::: for device Type::Android
+20:30:21,753 INFO  [AppiumLauncher] *************** Starting Appium Server for Android Device::: on OS :::WINDOWS 10
+20:30:28,547 INFO  [AppiumLauncher] Appium Server started successfully on windows 10 for:::Android
+20:30:28,547 INFO  [TestBaseClass] Initializing local driver
+20:30:28,560 INFO  [DeviceCapabilities] Setting Desired capabilities:::
+20:30:28,564 INFO  [DeviceCapabilities] Capabilities for Capabilities {appActivity: com.application.appiumtutor..., appPackage: com.application.appiumtutorial, automationName: uiautomator2, deviceName: OPPO A54, noReset: false, platformName: Android, udid: PZPVSC95GMKNGUBQ}
+20:30:28,605 INFO  [CreateDriver] *****Start createLocalDriver method*******
+20:30:28,606 INFO  [CreateDriver] createLocalDriver ::: serverUrl:::http://127.0.0.1:4723/wd/hub
+20:30:28,606 INFO  [CreateDriver] Driver Capabilities createLocalDriver:::Capabilities {appActivity: com.application.appiumtutor..., appPackage: com.application.appiumtutorial, automationName: uiautomator2, deviceName: OPPO A54, noReset: false, platformName: Android, udid: PZPVSC95GMKNGUBQ}
+20:31:06,141 INFO  [CreateDriver] AppiumDriver successfully created:::createLocalDriver Asimio.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=com.application.appiumtutorial.MainActivity, appPackage=com.application.appiumtutorial, automationName=uiautomator2, databaseEnabled=false, desired={platformName=android, appActivity=com.application.appiumtutorial.MainActivity, appPackage=com.application.appiumtutorial, automationName=uiautomator2, deviceName=OPPO A54, noReset=false, udid=PZPVSC95GMKNGUBQ}, deviceApiLevel=30, deviceManufacturer=OPPO, deviceModel=CPH2239, deviceName=PZPVSC95GMKNGUBQ, deviceScreenDensity=320, deviceScreenSize=720x1600, deviceUDID=PZPVSC95GMKNGUBQ, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, noReset=false, pixelRatio=2, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=72, takesScreenshot=true, udid=PZPVSC95GMKNGUBQ, viewportRect={left=0, top=72, width=720, height=1368}, warnings={}, webStorageEnabled=false}
+20:31:06,141 INFO  [TestBaseClass] Android Driver created!! Driver details :::io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=com.application.appiumtutorial.MainActivity, appPackage=com.application.appiumtutorial, automationName=uiautomator2, databaseEnabled=false, desired={platformName=android, appActivity=com.application.appiumtutorial.MainActivity, appPackage=com.application.appiumtutorial, automationName=uiautomator2, deviceName=OPPO A54, noReset=false, udid=PZPVSC95GMKNGUBQ}, deviceApiLevel=30, deviceManufacturer=OPPO, deviceModel=CPH2239, deviceName=PZPVSC95GMKNGUBQ, deviceScreenDensity=320, deviceScreenSize=720x1600, deviceUDID=PZPVSC95GMKNGUBQ, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, noReset=false, pixelRatio=2, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=72, takesScreenshot=true, udid=PZPVSC95GMKNGUBQ, viewportRect={left=0, top=72, width=720, height=1368}, warnings={}, webStorageEnabled=false}
+20:31:06,365 INFO  [TestBaseClass] Waiting for Visibility of Element having locator::null
+20:31:06,371 ERROR [TestBaseClass] Element not visible for locator ::null
+20:31:06,374 INFO  [TestBaseClass] Clicking on Element having locator:::null
+20:31:06,374 INFO  [TestBaseClass] Unable to click on Sign Up Button
+20:31:18,579 DEBUG [cache] Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+20:31:18,580 DEBUG [cache] TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+20:31:18,583 DEBUG [cache] TemplateLoader.findTemplateSource("index.ftl"): Found
+20:31:18,584 DEBUG [cache] Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+20:31:18,814 DEBUG [cache] Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+20:31:18,814 DEBUG [cache] TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+20:31:18,815 DEBUG [cache] TemplateLoader.findTemplateSource("head.ftl"): Found
+20:31:18,815 DEBUG [cache] Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+20:31:18,818 DEBUG [cache] Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+20:31:18,819 DEBUG [cache] TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+20:31:18,819 DEBUG [cache] TemplateLoader.findTemplateSource("nav.ftl"): Found
+20:31:18,819 DEBUG [cache] Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+20:31:18,829 DEBUG [cache] Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+20:31:18,830 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+20:31:18,830 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+20:31:18,831 DEBUG [cache] Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+20:31:18,841 DEBUG [cache] Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+20:31:18,842 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+20:31:18,842 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+20:31:18,842 DEBUG [cache] Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+20:31:18,859 DEBUG [cache] Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+20:31:18,859 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+20:31:18,859 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+20:31:18,860 DEBUG [cache] Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+20:31:18,877 DEBUG [cache] Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+20:31:18,877 DEBUG [cache] TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+20:31:18,878 DEBUG [cache] TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+20:31:18,878 DEBUG [cache] Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+20:31:18,883 DEBUG [cache] Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+20:31:18,883 DEBUG [cache] TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+20:31:18,884 DEBUG [cache] TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+20:31:18,884 DEBUG [cache] Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+20:31:18,890 DEBUG [cache] Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+20:31:18,890 DEBUG [cache] TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+20:31:18,890 DEBUG [cache] TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+20:31:18,890 DEBUG [cache] Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+20:31:18,894 DEBUG [cache] Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+20:31:18,894 DEBUG [cache] TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+20:31:18,895 DEBUG [cache] TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+20:31:18,895 DEBUG [cache] Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+20:31:18,899 DEBUG [cache] Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+20:31:18,900 DEBUG [cache] TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+20:31:18,900 DEBUG [cache] TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+20:31:18,900 DEBUG [cache] Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+20:39:26,743 INFO  [TestBaseClass] Initializing Appium driver for testBedName::: for device Type::Android
+20:39:26,782 INFO  [AppiumLauncher] *************** Starting Appium Server for Android Device::: on OS :::WINDOWS 10
+20:39:33,271 INFO  [AppiumLauncher] Appium Server started successfully on windows 10 for:::Android
+20:39:33,271 INFO  [TestBaseClass] Initializing local driver
+20:39:33,286 INFO  [DeviceCapabilities] Setting Desired capabilities:::
+20:39:33,290 INFO  [DeviceCapabilities] Capabilities for Capabilities {appActivity: com.application.appiumtutor..., appPackage: com.application.appiumtutorial, automationName: uiautomator2, deviceName: OPPO A54, noReset: false, platformName: Android, udid: PZPVSC95GMKNGUBQ}
+20:39:33,326 INFO  [CreateDriver] *****Start createLocalDriver method*******
+20:39:33,327 INFO  [CreateDriver] createLocalDriver ::: serverUrl:::http://127.0.0.1:4723/wd/hub
+20:39:33,327 INFO  [CreateDriver] Driver Capabilities createLocalDriver:::Capabilities {appActivity: com.application.appiumtutor..., appPackage: com.application.appiumtutorial, automationName: uiautomator2, deviceName: OPPO A54, noReset: false, platformName: Android, udid: PZPVSC95GMKNGUBQ}
+20:40:13,618 INFO  [CreateDriver] AppiumDriver successfully created:::createLocalDriver Asimio.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=com.application.appiumtutorial.MainActivity, appPackage=com.application.appiumtutorial, automationName=uiautomator2, databaseEnabled=false, desired={platformName=android, appActivity=com.application.appiumtutorial.MainActivity, appPackage=com.application.appiumtutorial, automationName=uiautomator2, deviceName=OPPO A54, noReset=false, udid=PZPVSC95GMKNGUBQ}, deviceApiLevel=30, deviceManufacturer=OPPO, deviceModel=CPH2239, deviceName=PZPVSC95GMKNGUBQ, deviceScreenDensity=320, deviceScreenSize=720x1600, deviceUDID=PZPVSC95GMKNGUBQ, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, noReset=false, pixelRatio=2, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=72, takesScreenshot=true, udid=PZPVSC95GMKNGUBQ, viewportRect={left=0, top=72, width=720, height=1368}, warnings={}, webStorageEnabled=false}
+20:40:13,619 INFO  [TestBaseClass] Android Driver created!! Driver details :::io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=com.application.appiumtutorial.MainActivity, appPackage=com.application.appiumtutorial, automationName=uiautomator2, databaseEnabled=false, desired={platformName=android, appActivity=com.application.appiumtutorial.MainActivity, appPackage=com.application.appiumtutorial, automationName=uiautomator2, deviceName=OPPO A54, noReset=false, udid=PZPVSC95GMKNGUBQ}, deviceApiLevel=30, deviceManufacturer=OPPO, deviceModel=CPH2239, deviceName=PZPVSC95GMKNGUBQ, deviceScreenDensity=320, deviceScreenSize=720x1600, deviceUDID=PZPVSC95GMKNGUBQ, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, noReset=false, pixelRatio=2, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=72, takesScreenshot=true, udid=PZPVSC95GMKNGUBQ, viewportRect={left=0, top=72, width=720, height=1368}, warnings={}, webStorageEnabled=false}
+20:40:43,819 INFO  [TestBaseClass] Waiting for Visibility of Element having locator::null
+20:40:43,823 ERROR [TestBaseClass] Element not visible for locator ::null
+20:40:43,824 INFO  [TestBaseClass] Clicking on Element having locator:::null
+20:40:43,825 INFO  [TestBaseClass] Unable to click on Sign Up Button
+20:40:56,775 DEBUG [cache] Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+20:40:56,777 DEBUG [cache] TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+20:40:56,783 DEBUG [cache] TemplateLoader.findTemplateSource("index.ftl"): Found
+20:40:56,784 DEBUG [cache] Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+20:40:57,436 DEBUG [cache] Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+20:40:57,437 DEBUG [cache] TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+20:40:57,438 DEBUG [cache] TemplateLoader.findTemplateSource("head.ftl"): Found
+20:40:57,438 DEBUG [cache] Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+20:40:57,444 DEBUG [cache] Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+20:40:57,444 DEBUG [cache] TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+20:40:57,445 DEBUG [cache] TemplateLoader.findTemplateSource("nav.ftl"): Found
+20:40:57,445 DEBUG [cache] Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+20:40:57,466 DEBUG [cache] Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+20:40:57,509 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+20:40:57,509 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+20:40:57,509 DEBUG [cache] Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+20:40:57,525 DEBUG [cache] Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+20:40:57,525 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+20:40:57,526 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+20:40:57,526 DEBUG [cache] Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+20:40:57,554 DEBUG [cache] Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+20:40:57,554 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+20:40:57,555 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+20:40:57,555 DEBUG [cache] Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+20:40:57,580 DEBUG [cache] Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+20:40:57,581 DEBUG [cache] TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+20:40:57,582 DEBUG [cache] TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+20:40:57,582 DEBUG [cache] Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+20:40:57,587 DEBUG [cache] Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+20:40:57,587 DEBUG [cache] TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+20:40:57,588 DEBUG [cache] TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+20:40:57,588 DEBUG [cache] Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+20:40:57,594 DEBUG [cache] Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+20:40:57,595 DEBUG [cache] TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+20:40:57,595 DEBUG [cache] TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+20:40:57,595 DEBUG [cache] Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+20:40:57,601 DEBUG [cache] Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+20:40:57,601 DEBUG [cache] TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+20:40:57,602 DEBUG [cache] TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+20:40:57,602 DEBUG [cache] Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+20:40:57,612 DEBUG [cache] Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+20:40:57,613 DEBUG [cache] TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+20:40:57,614 DEBUG [cache] TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+20:40:57,615 DEBUG [cache] Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+21:28:49,494 INFO  [TestBaseClass] Initializing Appium driver for testBedName::: for device Type::Android
+21:28:49,554 INFO  [AppiumLauncher] *************** Starting Appium Server for Android Device::: on OS :::WINDOWS 10
+21:29:00,119 INFO  [AppiumLauncher] Appium Server started successfully on windows 10 for:::Android
+21:29:00,120 INFO  [TestBaseClass] Initializing local driver
+21:29:00,150 INFO  [DeviceCapabilities] Setting Desired capabilities:::
+21:29:00,157 INFO  [DeviceCapabilities] Capabilities for Capabilities {appActivity: com.application.appiumtutor..., appPackage: com.application.appiumtutorial, automationName: uiautomator2, deviceName: OPPO A54, noReset: false, platformName: Android, udid: PZPVSC95GMKNGUBQ}
+21:29:00,177 INFO  [CreateDriver] *****Start createLocalDriver method*******
+21:29:00,177 INFO  [CreateDriver] createLocalDriver ::: serverUrl:::http://127.0.0.1:4723/wd/hub
+21:29:00,178 INFO  [CreateDriver] Driver Capabilities createLocalDriver:::Capabilities {appActivity: com.application.appiumtutor..., appPackage: com.application.appiumtutorial, automationName: uiautomator2, deviceName: OPPO A54, noReset: false, platformName: Android, udid: PZPVSC95GMKNGUBQ}
+21:29:42,312 INFO  [CreateDriver] AppiumDriver successfully created:::createLocalDriver Asimio.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=com.application.appiumtutorial.MainActivity, appPackage=com.application.appiumtutorial, automationName=uiautomator2, databaseEnabled=false, desired={platformName=android, appActivity=com.application.appiumtutorial.MainActivity, appPackage=com.application.appiumtutorial, automationName=uiautomator2, deviceName=OPPO A54, noReset=false, udid=PZPVSC95GMKNGUBQ}, deviceApiLevel=30, deviceManufacturer=OPPO, deviceModel=CPH2239, deviceName=PZPVSC95GMKNGUBQ, deviceScreenDensity=320, deviceScreenSize=720x1600, deviceUDID=PZPVSC95GMKNGUBQ, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, noReset=false, pixelRatio=2, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=72, takesScreenshot=true, udid=PZPVSC95GMKNGUBQ, viewportRect={left=0, top=72, width=720, height=1368}, warnings={}, webStorageEnabled=false}
+21:29:42,313 INFO  [TestBaseClass] Android Driver created!! Driver details :::io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=com.application.appiumtutorial.MainActivity, appPackage=com.application.appiumtutorial, automationName=uiautomator2, databaseEnabled=false, desired={platformName=android, appActivity=com.application.appiumtutorial.MainActivity, appPackage=com.application.appiumtutorial, automationName=uiautomator2, deviceName=OPPO A54, noReset=false, udid=PZPVSC95GMKNGUBQ}, deviceApiLevel=30, deviceManufacturer=OPPO, deviceModel=CPH2239, deviceName=PZPVSC95GMKNGUBQ, deviceScreenDensity=320, deviceScreenSize=720x1600, deviceUDID=PZPVSC95GMKNGUBQ, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, noReset=false, pixelRatio=2, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=72, takesScreenshot=true, udid=PZPVSC95GMKNGUBQ, viewportRect={left=0, top=72, width=720, height=1368}, warnings={}, webStorageEnabled=false}
+21:29:42,776 INFO  [TestBaseClass] 1st Flow
+21:29:42,888 DEBUG [cache] Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+21:29:42,892 DEBUG [cache] TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+21:29:42,897 DEBUG [cache] TemplateLoader.findTemplateSource("index.ftl"): Found
+21:29:42,897 DEBUG [cache] Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+21:29:43,449 DEBUG [cache] Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+21:29:43,451 DEBUG [cache] TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+21:29:43,451 DEBUG [cache] TemplateLoader.findTemplateSource("head.ftl"): Found
+21:29:43,452 DEBUG [cache] Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+21:29:43,462 DEBUG [cache] Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+21:29:43,462 DEBUG [cache] TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+21:29:43,463 DEBUG [cache] TemplateLoader.findTemplateSource("nav.ftl"): Found
+21:29:43,463 DEBUG [cache] Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+21:29:43,490 DEBUG [cache] Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+21:29:43,491 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+21:29:43,492 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+21:29:43,492 DEBUG [cache] Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+21:29:43,524 DEBUG [cache] Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+21:29:43,525 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+21:29:43,526 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+21:29:43,526 DEBUG [cache] Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+21:29:43,571 DEBUG [cache] Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+21:29:43,571 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+21:29:43,572 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+21:29:43,572 DEBUG [cache] Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+21:29:43,640 DEBUG [cache] Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+21:29:43,641 DEBUG [cache] TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+21:29:43,642 DEBUG [cache] TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+21:29:43,642 DEBUG [cache] Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+21:29:43,663 DEBUG [cache] Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+21:29:43,672 DEBUG [cache] TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+21:29:43,674 DEBUG [cache] TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+21:29:43,675 DEBUG [cache] Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+21:29:43,695 DEBUG [cache] Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+21:29:43,705 DEBUG [cache] TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+21:29:43,706 DEBUG [cache] TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+21:29:43,706 DEBUG [cache] Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+21:29:43,742 DEBUG [cache] Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+21:29:43,743 DEBUG [cache] TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+21:29:43,746 DEBUG [cache] TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+21:29:43,746 DEBUG [cache] Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+21:29:43,766 DEBUG [cache] Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+21:29:43,767 DEBUG [cache] TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+21:29:43,767 DEBUG [cache] TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+21:29:43,767 DEBUG [cache] Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+21:32:14,480 INFO  [TestBaseClass] Initializing Appium driver for testBedName::: for device Type::Android
+21:32:14,511 INFO  [AppiumLauncher] *************** Starting Appium Server for Android Device::: on OS :::WINDOWS 10
+21:32:21,905 INFO  [AppiumLauncher] Appium Server started successfully on windows 10 for:::Android
+21:32:21,905 INFO  [TestBaseClass] Initializing local driver
+21:32:21,925 INFO  [DeviceCapabilities] Setting Desired capabilities:::
+21:32:21,932 INFO  [DeviceCapabilities] Capabilities for Capabilities {appActivity: com.application.appiumtutor..., appPackage: com.application.appiumtutorial, automationName: uiautomator2, deviceName: OPPO A54, noReset: false, platformName: Android, udid: PZPVSC95GMKNGUBQ}
+21:32:21,949 INFO  [CreateDriver] *****Start createLocalDriver method*******
+21:32:21,951 INFO  [CreateDriver] createLocalDriver ::: serverUrl:::http://127.0.0.1:4723/wd/hub
+21:32:21,952 INFO  [CreateDriver] Driver Capabilities createLocalDriver:::Capabilities {appActivity: com.application.appiumtutor..., appPackage: com.application.appiumtutorial, automationName: uiautomator2, deviceName: OPPO A54, noReset: false, platformName: Android, udid: PZPVSC95GMKNGUBQ}
+21:33:04,366 INFO  [CreateDriver] AppiumDriver successfully created:::createLocalDriver Asimio.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=com.application.appiumtutorial.MainActivity, appPackage=com.application.appiumtutorial, automationName=uiautomator2, databaseEnabled=false, desired={platformName=android, appActivity=com.application.appiumtutorial.MainActivity, appPackage=com.application.appiumtutorial, automationName=uiautomator2, deviceName=OPPO A54, noReset=false, udid=PZPVSC95GMKNGUBQ}, deviceApiLevel=30, deviceManufacturer=OPPO, deviceModel=CPH2239, deviceName=PZPVSC95GMKNGUBQ, deviceScreenDensity=320, deviceScreenSize=720x1600, deviceUDID=PZPVSC95GMKNGUBQ, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, noReset=false, pixelRatio=2, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=72, takesScreenshot=true, udid=PZPVSC95GMKNGUBQ, viewportRect={left=0, top=72, width=720, height=1368}, warnings={}, webStorageEnabled=false}
+21:33:04,366 INFO  [TestBaseClass] Android Driver created!! Driver details :::io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=com.application.appiumtutorial.MainActivity, appPackage=com.application.appiumtutorial, automationName=uiautomator2, databaseEnabled=false, desired={platformName=android, appActivity=com.application.appiumtutorial.MainActivity, appPackage=com.application.appiumtutorial, automationName=uiautomator2, deviceName=OPPO A54, noReset=false, udid=PZPVSC95GMKNGUBQ}, deviceApiLevel=30, deviceManufacturer=OPPO, deviceModel=CPH2239, deviceName=PZPVSC95GMKNGUBQ, deviceScreenDensity=320, deviceScreenSize=720x1600, deviceUDID=PZPVSC95GMKNGUBQ, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, noReset=false, pixelRatio=2, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=72, takesScreenshot=true, udid=PZPVSC95GMKNGUBQ, viewportRect={left=0, top=72, width=720, height=1368}, warnings={}, webStorageEnabled=false}
+21:33:04,818 INFO  [TestBaseClass] 1st Flow
+21:33:05,051 INFO  [TestBaseClass] Waiting for Visibility of Element having locator::[[io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=com.application.appiumtutorial.MainActivity, appPackage=com.application.appiumtutorial, automationName=uiautomator2, databaseEnabled=false, desired={platformName=android, appActivity=com.application.appiumtutorial.MainActivity, appPackage=com.application.appiumtutorial, automationName=uiautomator2, deviceName=OPPO A54, noReset=false, udid=PZPVSC95GMKNGUBQ}, deviceApiLevel=30, deviceManufacturer=OPPO, deviceModel=CPH2239, deviceName=PZPVSC95GMKNGUBQ, deviceScreenDensity=320, deviceScreenSize=720x1600, deviceUDID=PZPVSC95GMKNGUBQ, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, noReset=false, pixelRatio=2, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=72, takesScreenshot=true, udid=PZPVSC95GMKNGUBQ, viewportRect={left=0, top=72, width=720, height=1368}, warnings={}, webStorageEnabled=false}] -> id: com.application.appiumtutorial:id/btn_appium_intro]
+21:33:05,547 INFO  [TestBaseClass] Clicking on Element having locator:::[[io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=com.application.appiumtutorial.MainActivity, appPackage=com.application.appiumtutorial, automationName=uiautomator2, databaseEnabled=false, desired={platformName=android, appActivity=com.application.appiumtutorial.MainActivity, appPackage=com.application.appiumtutorial, automationName=uiautomator2, deviceName=OPPO A54, noReset=false, udid=PZPVSC95GMKNGUBQ}, deviceApiLevel=30, deviceManufacturer=OPPO, deviceModel=CPH2239, deviceName=PZPVSC95GMKNGUBQ, deviceScreenDensity=320, deviceScreenSize=720x1600, deviceUDID=PZPVSC95GMKNGUBQ, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, noReset=false, pixelRatio=2, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=72, takesScreenshot=true, udid=PZPVSC95GMKNGUBQ, viewportRect={left=0, top=72, width=720, height=1368}, warnings={}, webStorageEnabled=false}] -> id: com.application.appiumtutorial:id/btn_appium_intro]
+21:33:06,020 INFO  [TestBaseClass] Clicked on Element having locator:::[[io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=com.application.appiumtutorial.MainActivity, appPackage=com.application.appiumtutorial, automationName=uiautomator2, databaseEnabled=false, desired={platformName=android, appActivity=com.application.appiumtutorial.MainActivity, appPackage=com.application.appiumtutorial, automationName=uiautomator2, deviceName=OPPO A54, noReset=false, udid=PZPVSC95GMKNGUBQ}, deviceApiLevel=30, deviceManufacturer=OPPO, deviceModel=CPH2239, deviceName=PZPVSC95GMKNGUBQ, deviceScreenDensity=320, deviceScreenSize=720x1600, deviceUDID=PZPVSC95GMKNGUBQ, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, noReset=false, pixelRatio=2, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=72, takesScreenshot=true, udid=PZPVSC95GMKNGUBQ, viewportRect={left=0, top=72, width=720, height=1368}, warnings={}, webStorageEnabled=false}] -> id: com.application.appiumtutorial:id/btn_appium_intro]
+21:33:06,020 INFO  [TestBaseClass] Clicked on Introduction To Appium Button
+21:33:06,085 DEBUG [cache] Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+21:33:06,087 DEBUG [cache] TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+21:33:06,095 DEBUG [cache] TemplateLoader.findTemplateSource("index.ftl"): Found
+21:33:06,096 DEBUG [cache] Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+21:33:06,818 DEBUG [cache] Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+21:33:06,819 DEBUG [cache] TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+21:33:06,820 DEBUG [cache] TemplateLoader.findTemplateSource("head.ftl"): Found
+21:33:06,820 DEBUG [cache] Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+21:33:06,828 DEBUG [cache] Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+21:33:06,829 DEBUG [cache] TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+21:33:06,830 DEBUG [cache] TemplateLoader.findTemplateSource("nav.ftl"): Found
+21:33:06,830 DEBUG [cache] Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+21:33:06,861 DEBUG [cache] Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+21:33:06,862 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+21:33:06,862 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+21:33:06,863 DEBUG [cache] Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+21:33:06,893 DEBUG [cache] Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+21:33:06,894 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+21:33:06,894 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+21:33:06,894 DEBUG [cache] Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+21:33:06,929 DEBUG [cache] Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+21:33:06,930 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+21:33:06,931 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+21:33:06,931 DEBUG [cache] Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+21:33:06,996 DEBUG [cache] Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+21:33:06,997 DEBUG [cache] TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+21:33:06,998 DEBUG [cache] TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+21:33:06,999 DEBUG [cache] Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+21:33:07,010 DEBUG [cache] Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+21:33:07,011 DEBUG [cache] TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+21:33:07,011 DEBUG [cache] TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+21:33:07,011 DEBUG [cache] Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+21:33:07,032 DEBUG [cache] Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+21:33:07,034 DEBUG [cache] TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+21:33:07,035 DEBUG [cache] TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+21:33:07,036 DEBUG [cache] Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+21:33:07,047 DEBUG [cache] Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+21:33:07,049 DEBUG [cache] TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+21:33:07,054 DEBUG [cache] TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+21:33:07,055 DEBUG [cache] Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+21:33:07,113 DEBUG [cache] Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+21:33:07,117 DEBUG [cache] TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+21:33:07,119 DEBUG [cache] TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+21:33:07,120 DEBUG [cache] Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+21:34:48,429 INFO  [TestBaseClass] Initializing Appium driver for testBedName::: for device Type::Android
+21:34:48,465 INFO  [AppiumLauncher] *************** Starting Appium Server for Android Device::: on OS :::WINDOWS 10
+21:34:57,783 INFO  [AppiumLauncher] Appium Server started successfully on windows 10 for:::Android
+21:34:57,784 INFO  [TestBaseClass] Initializing local driver
+21:34:57,808 INFO  [DeviceCapabilities] Setting Desired capabilities:::
+21:34:57,816 INFO  [DeviceCapabilities] Capabilities for Capabilities {appActivity: com.application.appiumtutor..., appPackage: com.application.appiumtutorial, automationName: uiautomator2, deviceName: OPPO A54, noReset: false, platformName: Android, udid: PZPVSC95GMKNGUBQ}
+21:34:57,835 INFO  [CreateDriver] *****Start createLocalDriver method*******
+21:34:57,835 INFO  [CreateDriver] createLocalDriver ::: serverUrl:::http://127.0.0.1:4723/wd/hub
+21:34:57,836 INFO  [CreateDriver] Driver Capabilities createLocalDriver:::Capabilities {appActivity: com.application.appiumtutor..., appPackage: com.application.appiumtutorial, automationName: uiautomator2, deviceName: OPPO A54, noReset: false, platformName: Android, udid: PZPVSC95GMKNGUBQ}
+21:35:50,577 INFO  [CreateDriver] AppiumDriver successfully created:::createLocalDriver Asimio.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=com.application.appiumtutorial.MainActivity, appPackage=com.application.appiumtutorial, automationName=uiautomator2, databaseEnabled=false, desired={platformName=android, appActivity=com.application.appiumtutorial.MainActivity, appPackage=com.application.appiumtutorial, automationName=uiautomator2, deviceName=OPPO A54, noReset=false, udid=PZPVSC95GMKNGUBQ}, deviceApiLevel=30, deviceManufacturer=OPPO, deviceModel=CPH2239, deviceName=PZPVSC95GMKNGUBQ, deviceScreenDensity=320, deviceScreenSize=720x1600, deviceUDID=PZPVSC95GMKNGUBQ, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, noReset=false, pixelRatio=2, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=72, takesScreenshot=true, udid=PZPVSC95GMKNGUBQ, viewportRect={left=0, top=72, width=720, height=1368}, warnings={}, webStorageEnabled=false}
+21:35:50,579 INFO  [TestBaseClass] Android Driver created!! Driver details :::io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=com.application.appiumtutorial.MainActivity, appPackage=com.application.appiumtutorial, automationName=uiautomator2, databaseEnabled=false, desired={platformName=android, appActivity=com.application.appiumtutorial.MainActivity, appPackage=com.application.appiumtutorial, automationName=uiautomator2, deviceName=OPPO A54, noReset=false, udid=PZPVSC95GMKNGUBQ}, deviceApiLevel=30, deviceManufacturer=OPPO, deviceModel=CPH2239, deviceName=PZPVSC95GMKNGUBQ, deviceScreenDensity=320, deviceScreenSize=720x1600, deviceUDID=PZPVSC95GMKNGUBQ, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, noReset=false, pixelRatio=2, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=72, takesScreenshot=true, udid=PZPVSC95GMKNGUBQ, viewportRect={left=0, top=72, width=720, height=1368}, warnings={}, webStorageEnabled=false}
+21:35:51,201 INFO  [TestBaseClass] 1st Flow
+21:35:51,436 INFO  [TestBaseClass] Waiting for Visibility of Element having locator::[[io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=com.application.appiumtutorial.MainActivity, appPackage=com.application.appiumtutorial, automationName=uiautomator2, databaseEnabled=false, desired={platformName=android, appActivity=com.application.appiumtutorial.MainActivity, appPackage=com.application.appiumtutorial, automationName=uiautomator2, deviceName=OPPO A54, noReset=false, udid=PZPVSC95GMKNGUBQ}, deviceApiLevel=30, deviceManufacturer=OPPO, deviceModel=CPH2239, deviceName=PZPVSC95GMKNGUBQ, deviceScreenDensity=320, deviceScreenSize=720x1600, deviceUDID=PZPVSC95GMKNGUBQ, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, noReset=false, pixelRatio=2, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=72, takesScreenshot=true, udid=PZPVSC95GMKNGUBQ, viewportRect={left=0, top=72, width=720, height=1368}, warnings={}, webStorageEnabled=false}] -> id: com.application.appiumtutorial:id/btn_appium_intro]
+21:35:51,711 INFO  [TestBaseClass] Clicking on Element having locator:::[[io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=com.application.appiumtutorial.MainActivity, appPackage=com.application.appiumtutorial, automationName=uiautomator2, databaseEnabled=false, desired={platformName=android, appActivity=com.application.appiumtutorial.MainActivity, appPackage=com.application.appiumtutorial, automationName=uiautomator2, deviceName=OPPO A54, noReset=false, udid=PZPVSC95GMKNGUBQ}, deviceApiLevel=30, deviceManufacturer=OPPO, deviceModel=CPH2239, deviceName=PZPVSC95GMKNGUBQ, deviceScreenDensity=320, deviceScreenSize=720x1600, deviceUDID=PZPVSC95GMKNGUBQ, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, noReset=false, pixelRatio=2, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=72, takesScreenshot=true, udid=PZPVSC95GMKNGUBQ, viewportRect={left=0, top=72, width=720, height=1368}, warnings={}, webStorageEnabled=false}] -> id: com.application.appiumtutorial:id/btn_appium_intro]
+21:36:04,726 INFO  [TestBaseClass] Clicked on Element having locator:::Proxy element for: DefaultElementLocator 'By.id: com.application.appiumtutorial:id/btn_appium_intro'
+21:36:04,726 INFO  [TestBaseClass] Clicked on Introduction To Appium Button
+21:36:11,862 DEBUG [cache] Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+21:36:11,867 DEBUG [cache] TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+21:36:11,871 DEBUG [cache] TemplateLoader.findTemplateSource("index.ftl"): Found
+21:36:11,872 DEBUG [cache] Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+21:36:12,264 DEBUG [cache] Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+21:36:12,264 DEBUG [cache] TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+21:36:12,265 DEBUG [cache] TemplateLoader.findTemplateSource("head.ftl"): Found
+21:36:12,265 DEBUG [cache] Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+21:36:12,273 DEBUG [cache] Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+21:36:12,273 DEBUG [cache] TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+21:36:12,274 DEBUG [cache] TemplateLoader.findTemplateSource("nav.ftl"): Found
+21:36:12,274 DEBUG [cache] Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+21:36:12,290 DEBUG [cache] Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+21:36:12,291 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+21:36:12,293 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+21:36:12,293 DEBUG [cache] Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+21:36:12,314 DEBUG [cache] Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+21:36:12,315 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+21:36:12,315 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+21:36:12,316 DEBUG [cache] Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+21:36:12,340 DEBUG [cache] Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+21:36:12,341 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+21:36:12,341 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+21:36:12,342 DEBUG [cache] Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+21:36:12,375 DEBUG [cache] Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+21:36:12,375 DEBUG [cache] TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+21:36:12,376 DEBUG [cache] TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+21:36:12,376 DEBUG [cache] Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+21:36:12,382 DEBUG [cache] Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+21:36:12,383 DEBUG [cache] TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+21:36:12,384 DEBUG [cache] TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+21:36:12,384 DEBUG [cache] Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+21:36:12,391 DEBUG [cache] Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+21:36:12,392 DEBUG [cache] TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+21:36:12,394 DEBUG [cache] TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+21:36:12,394 DEBUG [cache] Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+21:36:12,400 DEBUG [cache] Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+21:36:12,401 DEBUG [cache] TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+21:36:12,401 DEBUG [cache] TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+21:36:12,402 DEBUG [cache] Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+21:36:12,409 DEBUG [cache] Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+21:36:12,410 DEBUG [cache] TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+21:36:12,411 DEBUG [cache] TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+21:36:12,411 DEBUG [cache] Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+21:58:34,148 INFO  [TestBaseClass] Initializing Appium driver for testBedName::: for device Type::Android
+21:58:34,211 INFO  [AppiumLauncher] *************** Starting Appium Server for Android Device::: on OS :::WINDOWS 10
+21:58:42,693 INFO  [AppiumLauncher] Appium Server started successfully on windows 10 for:::Android
+21:58:42,694 INFO  [TestBaseClass] Initializing local driver
+21:58:42,711 INFO  [DeviceCapabilities] Setting Desired capabilities:::
+21:58:42,715 INFO  [DeviceCapabilities] Capabilities for Capabilities {appActivity: com.application.appiumtutor..., appPackage: com.application.appiumtutorial, automationName: uiautomator2, deviceName: OPPO A54, noReset: false, platformName: Android, udid: PZPVSC95GMKNGUBQ}
+21:58:42,730 INFO  [CreateDriver] *****Start createLocalDriver method*******
+21:58:42,730 INFO  [CreateDriver] createLocalDriver ::: serverUrl:::http://127.0.0.1:4723/wd/hub
+21:58:42,731 INFO  [CreateDriver] Driver Capabilities createLocalDriver:::Capabilities {appActivity: com.application.appiumtutor..., appPackage: com.application.appiumtutorial, automationName: uiautomator2, deviceName: OPPO A54, noReset: false, platformName: Android, udid: PZPVSC95GMKNGUBQ}
+21:59:32,772 INFO  [CreateDriver] AppiumDriver successfully created:::createLocalDriver Asimio.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=com.application.appiumtutorial.MainActivity, appPackage=com.application.appiumtutorial, automationName=uiautomator2, databaseEnabled=false, desired={platformName=android, appActivity=com.application.appiumtutorial.MainActivity, appPackage=com.application.appiumtutorial, automationName=uiautomator2, deviceName=OPPO A54, noReset=false, udid=PZPVSC95GMKNGUBQ}, deviceApiLevel=30, deviceManufacturer=OPPO, deviceModel=CPH2239, deviceName=PZPVSC95GMKNGUBQ, deviceScreenDensity=320, deviceScreenSize=720x1600, deviceUDID=PZPVSC95GMKNGUBQ, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, noReset=false, pixelRatio=2, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=72, takesScreenshot=true, udid=PZPVSC95GMKNGUBQ, viewportRect={left=0, top=72, width=720, height=1368}, warnings={}, webStorageEnabled=false}
+21:59:32,773 INFO  [TestBaseClass] Android Driver created!! Driver details :::io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=com.application.appiumtutorial.MainActivity, appPackage=com.application.appiumtutorial, automationName=uiautomator2, databaseEnabled=false, desired={platformName=android, appActivity=com.application.appiumtutorial.MainActivity, appPackage=com.application.appiumtutorial, automationName=uiautomator2, deviceName=OPPO A54, noReset=false, udid=PZPVSC95GMKNGUBQ}, deviceApiLevel=30, deviceManufacturer=OPPO, deviceModel=CPH2239, deviceName=PZPVSC95GMKNGUBQ, deviceScreenDensity=320, deviceScreenSize=720x1600, deviceUDID=PZPVSC95GMKNGUBQ, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, noReset=false, pixelRatio=2, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=72, takesScreenshot=true, udid=PZPVSC95GMKNGUBQ, viewportRect={left=0, top=72, width=720, height=1368}, warnings={}, webStorageEnabled=false}
+21:59:33,229 INFO  [PageBaseClass] 1st Flow
+21:59:33,404 INFO  [TestBaseClass] Waiting for Visibility of Element having locator::[[io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=com.application.appiumtutorial.MainActivity, appPackage=com.application.appiumtutorial, automationName=uiautomator2, databaseEnabled=false, desired={platformName=android, appActivity=com.application.appiumtutorial.MainActivity, appPackage=com.application.appiumtutorial, automationName=uiautomator2, deviceName=OPPO A54, noReset=false, udid=PZPVSC95GMKNGUBQ}, deviceApiLevel=30, deviceManufacturer=OPPO, deviceModel=CPH2239, deviceName=PZPVSC95GMKNGUBQ, deviceScreenDensity=320, deviceScreenSize=720x1600, deviceUDID=PZPVSC95GMKNGUBQ, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, noReset=false, pixelRatio=2, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=72, takesScreenshot=true, udid=PZPVSC95GMKNGUBQ, viewportRect={left=0, top=72, width=720, height=1368}, warnings={}, webStorageEnabled=false}] -> id: com.application.appiumtutorial:id/btn_appium_intro]
+21:59:33,650 INFO  [TestBaseClass] Clicking on Element having locator:::[[io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=com.application.appiumtutorial.MainActivity, appPackage=com.application.appiumtutorial, automationName=uiautomator2, databaseEnabled=false, desired={platformName=android, appActivity=com.application.appiumtutorial.MainActivity, appPackage=com.application.appiumtutorial, automationName=uiautomator2, deviceName=OPPO A54, noReset=false, udid=PZPVSC95GMKNGUBQ}, deviceApiLevel=30, deviceManufacturer=OPPO, deviceModel=CPH2239, deviceName=PZPVSC95GMKNGUBQ, deviceScreenDensity=320, deviceScreenSize=720x1600, deviceUDID=PZPVSC95GMKNGUBQ, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, noReset=false, pixelRatio=2, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=72, takesScreenshot=true, udid=PZPVSC95GMKNGUBQ, viewportRect={left=0, top=72, width=720, height=1368}, warnings={}, webStorageEnabled=false}] -> id: com.application.appiumtutorial:id/btn_appium_intro]
+21:59:34,267 INFO  [TestBaseClass] Clicked on Element having locator:::[[io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=com.application.appiumtutorial.MainActivity, appPackage=com.application.appiumtutorial, automationName=uiautomator2, databaseEnabled=false, desired={platformName=android, appActivity=com.application.appiumtutorial.MainActivity, appPackage=com.application.appiumtutorial, automationName=uiautomator2, deviceName=OPPO A54, noReset=false, udid=PZPVSC95GMKNGUBQ}, deviceApiLevel=30, deviceManufacturer=OPPO, deviceModel=CPH2239, deviceName=PZPVSC95GMKNGUBQ, deviceScreenDensity=320, deviceScreenSize=720x1600, deviceUDID=PZPVSC95GMKNGUBQ, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, noReset=false, pixelRatio=2, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=72, takesScreenshot=true, udid=PZPVSC95GMKNGUBQ, viewportRect={left=0, top=72, width=720, height=1368}, warnings={}, webStorageEnabled=false}] -> id: com.application.appiumtutorial:id/btn_appium_intro]
+21:59:34,267 INFO  [PageBaseClass] Clicked on Introduction To Appium Button
+21:59:42,906 DEBUG [cache] Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+21:59:42,913 DEBUG [cache] TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+21:59:42,916 DEBUG [cache] TemplateLoader.findTemplateSource("index.ftl"): Found
+21:59:42,917 DEBUG [cache] Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+21:59:43,419 DEBUG [cache] Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+21:59:43,420 DEBUG [cache] TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+21:59:43,420 DEBUG [cache] TemplateLoader.findTemplateSource("head.ftl"): Found
+21:59:43,420 DEBUG [cache] Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+21:59:43,425 DEBUG [cache] Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+21:59:43,426 DEBUG [cache] TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+21:59:43,427 DEBUG [cache] TemplateLoader.findTemplateSource("nav.ftl"): Found
+21:59:43,427 DEBUG [cache] Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+21:59:43,450 DEBUG [cache] Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+21:59:43,451 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+21:59:43,452 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+21:59:43,452 DEBUG [cache] Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+21:59:43,479 DEBUG [cache] Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+21:59:43,479 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+21:59:43,480 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+21:59:43,480 DEBUG [cache] Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+21:59:43,512 DEBUG [cache] Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+21:59:43,513 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+21:59:43,513 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+21:59:43,514 DEBUG [cache] Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+21:59:43,567 DEBUG [cache] Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+21:59:43,567 DEBUG [cache] TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+21:59:43,568 DEBUG [cache] TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+21:59:43,569 DEBUG [cache] Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+21:59:43,575 DEBUG [cache] Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+21:59:43,576 DEBUG [cache] TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+21:59:43,577 DEBUG [cache] TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+21:59:43,577 DEBUG [cache] Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+21:59:43,589 DEBUG [cache] Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+21:59:43,591 DEBUG [cache] TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+21:59:43,592 DEBUG [cache] TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+21:59:43,594 DEBUG [cache] Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+21:59:43,598 DEBUG [cache] Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+21:59:43,599 DEBUG [cache] TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+21:59:43,600 DEBUG [cache] TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+21:59:43,600 DEBUG [cache] Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+21:59:43,611 DEBUG [cache] Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+21:59:43,612 DEBUG [cache] TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+21:59:43,614 DEBUG [cache] TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+21:59:43,614 DEBUG [cache] Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+22:02:18,900 INFO  [TestBaseClass] Initializing Appium driver for testBedName::: for device Type::Android
+22:02:18,928 INFO  [AppiumLauncher] *************** Starting Appium Server for Android Device::: on OS :::WINDOWS 10
+22:02:25,699 INFO  [AppiumLauncher] Appium Server started successfully on windows 10 for:::Android
+22:02:25,699 INFO  [TestBaseClass] Initializing local driver
+22:02:25,717 INFO  [DeviceCapabilities] Setting Desired capabilities:::
+22:02:25,722 INFO  [DeviceCapabilities] Capabilities for Capabilities {appActivity: com.application.appiumtutor..., appPackage: com.application.appiumtutorial, automationName: uiautomator2, deviceName: OPPO A54, noReset: false, platformName: Android, udid: PZPVSC95GMKNGUBQ}
+22:02:25,736 INFO  [CreateDriver] *****Start createLocalDriver method*******
+22:02:25,736 INFO  [CreateDriver] createLocalDriver ::: serverUrl:::http://127.0.0.1:4723/wd/hub
+22:02:25,737 INFO  [CreateDriver] Driver Capabilities createLocalDriver:::Capabilities {appActivity: com.application.appiumtutor..., appPackage: com.application.appiumtutorial, automationName: uiautomator2, deviceName: OPPO A54, noReset: false, platformName: Android, udid: PZPVSC95GMKNGUBQ}
+22:03:08,043 INFO  [CreateDriver] AppiumDriver successfully created:::createLocalDriver Asimio.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=com.application.appiumtutorial.MainActivity, appPackage=com.application.appiumtutorial, automationName=uiautomator2, databaseEnabled=false, desired={platformName=android, appActivity=com.application.appiumtutorial.MainActivity, appPackage=com.application.appiumtutorial, automationName=uiautomator2, deviceName=OPPO A54, noReset=false, udid=PZPVSC95GMKNGUBQ}, deviceApiLevel=30, deviceManufacturer=OPPO, deviceModel=CPH2239, deviceName=PZPVSC95GMKNGUBQ, deviceScreenDensity=320, deviceScreenSize=720x1600, deviceUDID=PZPVSC95GMKNGUBQ, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, noReset=false, pixelRatio=2, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=72, takesScreenshot=true, udid=PZPVSC95GMKNGUBQ, viewportRect={left=0, top=72, width=720, height=1368}, warnings={}, webStorageEnabled=false}
+22:03:08,043 INFO  [TestBaseClass] Android Driver created!! Driver details :::io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=com.application.appiumtutorial.MainActivity, appPackage=com.application.appiumtutorial, automationName=uiautomator2, databaseEnabled=false, desired={platformName=android, appActivity=com.application.appiumtutorial.MainActivity, appPackage=com.application.appiumtutorial, automationName=uiautomator2, deviceName=OPPO A54, noReset=false, udid=PZPVSC95GMKNGUBQ}, deviceApiLevel=30, deviceManufacturer=OPPO, deviceModel=CPH2239, deviceName=PZPVSC95GMKNGUBQ, deviceScreenDensity=320, deviceScreenSize=720x1600, deviceUDID=PZPVSC95GMKNGUBQ, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, noReset=false, pixelRatio=2, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=72, takesScreenshot=true, udid=PZPVSC95GMKNGUBQ, viewportRect={left=0, top=72, width=720, height=1368}, warnings={}, webStorageEnabled=false}
+22:03:08,874 INFO  [PageBaseClass] 1st Flow
+22:03:09,052 INFO  [TestBaseClass] Waiting for Visibility of Element having locator::[[io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=com.application.appiumtutorial.MainActivity, appPackage=com.application.appiumtutorial, automationName=uiautomator2, databaseEnabled=false, desired={platformName=android, appActivity=com.application.appiumtutorial.MainActivity, appPackage=com.application.appiumtutorial, automationName=uiautomator2, deviceName=OPPO A54, noReset=false, udid=PZPVSC95GMKNGUBQ}, deviceApiLevel=30, deviceManufacturer=OPPO, deviceModel=CPH2239, deviceName=PZPVSC95GMKNGUBQ, deviceScreenDensity=320, deviceScreenSize=720x1600, deviceUDID=PZPVSC95GMKNGUBQ, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, noReset=false, pixelRatio=2, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=72, takesScreenshot=true, udid=PZPVSC95GMKNGUBQ, viewportRect={left=0, top=72, width=720, height=1368}, warnings={}, webStorageEnabled=false}] -> id: com.application.appiumtutorial:id/btn_appium_intro]
+22:03:09,212 INFO  [TestBaseClass] Clicking on Element having locator:::[[io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=com.application.appiumtutorial.MainActivity, appPackage=com.application.appiumtutorial, automationName=uiautomator2, databaseEnabled=false, desired={platformName=android, appActivity=com.application.appiumtutorial.MainActivity, appPackage=com.application.appiumtutorial, automationName=uiautomator2, deviceName=OPPO A54, noReset=false, udid=PZPVSC95GMKNGUBQ}, deviceApiLevel=30, deviceManufacturer=OPPO, deviceModel=CPH2239, deviceName=PZPVSC95GMKNGUBQ, deviceScreenDensity=320, deviceScreenSize=720x1600, deviceUDID=PZPVSC95GMKNGUBQ, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, noReset=false, pixelRatio=2, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=72, takesScreenshot=true, udid=PZPVSC95GMKNGUBQ, viewportRect={left=0, top=72, width=720, height=1368}, warnings={}, webStorageEnabled=false}] -> id: com.application.appiumtutorial:id/btn_appium_intro]
+22:03:09,886 INFO  [TestBaseClass] Clicked on Element having locator:::[[io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=com.application.appiumtutorial.MainActivity, appPackage=com.application.appiumtutorial, automationName=uiautomator2, databaseEnabled=false, desired={platformName=android, appActivity=com.application.appiumtutorial.MainActivity, appPackage=com.application.appiumtutorial, automationName=uiautomator2, deviceName=OPPO A54, noReset=false, udid=PZPVSC95GMKNGUBQ}, deviceApiLevel=30, deviceManufacturer=OPPO, deviceModel=CPH2239, deviceName=PZPVSC95GMKNGUBQ, deviceScreenDensity=320, deviceScreenSize=720x1600, deviceUDID=PZPVSC95GMKNGUBQ, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, noReset=false, pixelRatio=2, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=72, takesScreenshot=true, udid=PZPVSC95GMKNGUBQ, viewportRect={left=0, top=72, width=720, height=1368}, warnings={}, webStorageEnabled=false}] -> id: com.application.appiumtutorial:id/btn_appium_intro]
+22:03:09,893 INFO  [PageBaseClass] Clicked on Introduction To Appium Button
+22:03:17,745 DEBUG [cache] Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+22:03:17,751 DEBUG [cache] TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+22:03:17,759 DEBUG [cache] TemplateLoader.findTemplateSource("index.ftl"): Found
+22:03:17,759 DEBUG [cache] Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+22:03:18,267 DEBUG [cache] Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+22:03:18,268 DEBUG [cache] TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+22:03:18,269 DEBUG [cache] TemplateLoader.findTemplateSource("head.ftl"): Found
+22:03:18,270 DEBUG [cache] Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+22:03:18,277 DEBUG [cache] Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+22:03:18,279 DEBUG [cache] TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+22:03:18,280 DEBUG [cache] TemplateLoader.findTemplateSource("nav.ftl"): Found
+22:03:18,281 DEBUG [cache] Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+22:03:18,322 DEBUG [cache] Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+22:03:18,323 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+22:03:18,324 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+22:03:18,324 DEBUG [cache] Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+22:03:18,354 DEBUG [cache] Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+22:03:18,356 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+22:03:18,357 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+22:03:18,358 DEBUG [cache] Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+22:03:18,400 DEBUG [cache] Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+22:03:18,401 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+22:03:18,402 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+22:03:18,402 DEBUG [cache] Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+22:03:18,450 DEBUG [cache] Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+22:03:18,451 DEBUG [cache] TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+22:03:18,451 DEBUG [cache] TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+22:03:18,452 DEBUG [cache] Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+22:03:18,458 DEBUG [cache] Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+22:03:18,459 DEBUG [cache] TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+22:03:18,460 DEBUG [cache] TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+22:03:18,460 DEBUG [cache] Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+22:03:18,467 DEBUG [cache] Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+22:03:18,468 DEBUG [cache] TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+22:03:18,469 DEBUG [cache] TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+22:03:18,469 DEBUG [cache] Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+22:03:18,474 DEBUG [cache] Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+22:03:18,475 DEBUG [cache] TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+22:03:18,476 DEBUG [cache] TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+22:03:18,477 DEBUG [cache] Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+22:03:18,497 DEBUG [cache] Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+22:03:18,501 DEBUG [cache] TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+22:03:18,502 DEBUG [cache] TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+22:03:18,503 DEBUG [cache] Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+15:13:43,988 INFO  [TestBaseClass] Initializing Appium driver for testBedName::: for device Type::Android
+15:13:44,084 INFO  [AppiumLauncher] *************** Starting Appium Server for Android Device::: on OS :::WINDOWS 10
+15:13:58,295 INFO  [AppiumLauncher] Appium Server started successfully on windows 10 for:::Android
+15:13:58,296 INFO  [TestBaseClass] Initializing local driver
+15:13:58,315 INFO  [DeviceCapabilities] Setting Desired capabilities:::
+15:13:58,320 INFO  [DeviceCapabilities] Capabilities for Capabilities {appActivity: com.application.appiumtutor..., appPackage: com.application.appiumtutorial, automationName: uiautomator2, deviceName: OPPO A54, noReset: false, platformName: Android, udid: PZPVSC95GMKNGUBQ}
+15:13:58,352 INFO  [CreateDriver] *****Start createLocalDriver method*******
+15:13:58,352 INFO  [CreateDriver] createLocalDriver ::: serverUrl:::http://127.0.0.1:4723/wd/hub
+15:13:58,353 INFO  [CreateDriver] Driver Capabilities createLocalDriver:::Capabilities {appActivity: com.application.appiumtutor..., appPackage: com.application.appiumtutorial, automationName: uiautomator2, deviceName: OPPO A54, noReset: false, platformName: Android, udid: PZPVSC95GMKNGUBQ}
+15:14:43,355 INFO  [CreateDriver] AppiumDriver successfully created:::createLocalDriver Asimio.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=com.application.appiumtutorial.MainActivity, appPackage=com.application.appiumtutorial, automationName=uiautomator2, databaseEnabled=false, desired={platformName=android, appActivity=com.application.appiumtutorial.MainActivity, appPackage=com.application.appiumtutorial, automationName=uiautomator2, deviceName=OPPO A54, noReset=false, udid=PZPVSC95GMKNGUBQ}, deviceApiLevel=30, deviceManufacturer=OPPO, deviceModel=CPH2239, deviceName=PZPVSC95GMKNGUBQ, deviceScreenDensity=320, deviceScreenSize=720x1600, deviceUDID=PZPVSC95GMKNGUBQ, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, noReset=false, pixelRatio=2, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=72, takesScreenshot=true, udid=PZPVSC95GMKNGUBQ, viewportRect={left=0, top=72, width=720, height=1368}, warnings={}, webStorageEnabled=false}
+15:14:43,356 INFO  [TestBaseClass] Android Driver created!! Driver details :::io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=com.application.appiumtutorial.MainActivity, appPackage=com.application.appiumtutorial, automationName=uiautomator2, databaseEnabled=false, desired={platformName=android, appActivity=com.application.appiumtutorial.MainActivity, appPackage=com.application.appiumtutorial, automationName=uiautomator2, deviceName=OPPO A54, noReset=false, udid=PZPVSC95GMKNGUBQ}, deviceApiLevel=30, deviceManufacturer=OPPO, deviceModel=CPH2239, deviceName=PZPVSC95GMKNGUBQ, deviceScreenDensity=320, deviceScreenSize=720x1600, deviceUDID=PZPVSC95GMKNGUBQ, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, noReset=false, pixelRatio=2, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=72, takesScreenshot=true, udid=PZPVSC95GMKNGUBQ, viewportRect={left=0, top=72, width=720, height=1368}, warnings={}, webStorageEnabled=false}
+15:14:43,678 INFO  [PageBaseClass] 1st Flow
+15:14:43,794 INFO  [TestBaseClass] Waiting for Visibility of Element having locator::[[io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=com.application.appiumtutorial.MainActivity, appPackage=com.application.appiumtutorial, automationName=uiautomator2, databaseEnabled=false, desired={platformName=android, appActivity=com.application.appiumtutorial.MainActivity, appPackage=com.application.appiumtutorial, automationName=uiautomator2, deviceName=OPPO A54, noReset=false, udid=PZPVSC95GMKNGUBQ}, deviceApiLevel=30, deviceManufacturer=OPPO, deviceModel=CPH2239, deviceName=PZPVSC95GMKNGUBQ, deviceScreenDensity=320, deviceScreenSize=720x1600, deviceUDID=PZPVSC95GMKNGUBQ, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, noReset=false, pixelRatio=2, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=72, takesScreenshot=true, udid=PZPVSC95GMKNGUBQ, viewportRect={left=0, top=72, width=720, height=1368}, warnings={}, webStorageEnabled=false}] -> id: com.application.appiumtutorial:id/btn_appium_intro]
+15:14:43,959 INFO  [TestBaseClass] Clicking on Element having locator:::[[io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=com.application.appiumtutorial.MainActivity, appPackage=com.application.appiumtutorial, automationName=uiautomator2, databaseEnabled=false, desired={platformName=android, appActivity=com.application.appiumtutorial.MainActivity, appPackage=com.application.appiumtutorial, automationName=uiautomator2, deviceName=OPPO A54, noReset=false, udid=PZPVSC95GMKNGUBQ}, deviceApiLevel=30, deviceManufacturer=OPPO, deviceModel=CPH2239, deviceName=PZPVSC95GMKNGUBQ, deviceScreenDensity=320, deviceScreenSize=720x1600, deviceUDID=PZPVSC95GMKNGUBQ, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, noReset=false, pixelRatio=2, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=72, takesScreenshot=true, udid=PZPVSC95GMKNGUBQ, viewportRect={left=0, top=72, width=720, height=1368}, warnings={}, webStorageEnabled=false}] -> id: com.application.appiumtutorial:id/btn_appium_intro]
+15:14:44,717 INFO  [TestBaseClass] Clicked on Element having locator:::[[io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=com.application.appiumtutorial.MainActivity, appPackage=com.application.appiumtutorial, automationName=uiautomator2, databaseEnabled=false, desired={platformName=android, appActivity=com.application.appiumtutorial.MainActivity, appPackage=com.application.appiumtutorial, automationName=uiautomator2, deviceName=OPPO A54, noReset=false, udid=PZPVSC95GMKNGUBQ}, deviceApiLevel=30, deviceManufacturer=OPPO, deviceModel=CPH2239, deviceName=PZPVSC95GMKNGUBQ, deviceScreenDensity=320, deviceScreenSize=720x1600, deviceUDID=PZPVSC95GMKNGUBQ, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, noReset=false, pixelRatio=2, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=72, takesScreenshot=true, udid=PZPVSC95GMKNGUBQ, viewportRect={left=0, top=72, width=720, height=1368}, warnings={}, webStorageEnabled=false}] -> id: com.application.appiumtutorial:id/btn_appium_intro]
+15:14:44,718 INFO  [PageBaseClass] Clicked on Introduction To Appium Button
+15:14:51,195 DEBUG [cache] Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+15:14:51,197 DEBUG [cache] TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+15:14:51,201 DEBUG [cache] TemplateLoader.findTemplateSource("index.ftl"): Found
+15:14:51,201 DEBUG [cache] Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+15:14:51,538 DEBUG [cache] Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+15:14:51,539 DEBUG [cache] TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+15:14:51,539 DEBUG [cache] TemplateLoader.findTemplateSource("head.ftl"): Found
+15:14:51,539 DEBUG [cache] Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+15:14:51,543 DEBUG [cache] Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+15:14:51,543 DEBUG [cache] TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+15:14:51,544 DEBUG [cache] TemplateLoader.findTemplateSource("nav.ftl"): Found
+15:14:51,544 DEBUG [cache] Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+15:14:51,555 DEBUG [cache] Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+15:14:51,556 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+15:14:51,556 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+15:14:51,557 DEBUG [cache] Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+15:14:51,576 DEBUG [cache] Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+15:14:51,576 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+15:14:51,577 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+15:14:51,577 DEBUG [cache] Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+15:14:51,594 DEBUG [cache] Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+15:14:51,595 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+15:14:51,595 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+15:14:51,595 DEBUG [cache] Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+15:14:51,630 DEBUG [cache] Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+15:14:51,631 DEBUG [cache] TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+15:14:51,631 DEBUG [cache] TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+15:14:51,631 DEBUG [cache] Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+15:14:51,638 DEBUG [cache] Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+15:14:51,639 DEBUG [cache] TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+15:14:51,640 DEBUG [cache] TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+15:14:51,640 DEBUG [cache] Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+15:14:51,646 DEBUG [cache] Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+15:14:51,647 DEBUG [cache] TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+15:14:51,647 DEBUG [cache] TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+15:14:51,647 DEBUG [cache] Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+15:14:51,654 DEBUG [cache] Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+15:14:51,654 DEBUG [cache] TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+15:14:51,655 DEBUG [cache] TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+15:14:51,655 DEBUG [cache] Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+15:14:51,664 DEBUG [cache] Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+15:14:51,666 DEBUG [cache] TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+15:14:51,666 DEBUG [cache] TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+15:14:51,666 DEBUG [cache] Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+16:27:39,742 INFO  [TestBaseClass] Initializing Appium driver for testBedName::: for device Type::Android
+16:27:39,773 INFO  [AppiumLauncher] *************** Starting Appium Server for Android Device::: on OS :::WINDOWS 10
+16:27:47,424 INFO  [AppiumLauncher] Appium Server started successfully on windows 10 for:::Android
+16:27:47,424 INFO  [TestBaseClass] Initializing local driver
+16:27:47,440 INFO  [DeviceCapabilities] Setting Desired capabilities:::
+16:27:47,445 INFO  [DeviceCapabilities] Capabilities for Capabilities {appActivity: com.application.appiumtutor..., appPackage: com.application.appiumtutorial, automationName: uiautomator2, deviceName: OPPO A54, noReset: false, platformName: Android, udid: PZPVSC95GMKNGUBQ}
+16:27:47,458 INFO  [CreateDriver] *****Start createLocalDriver method*******
+16:27:47,459 INFO  [CreateDriver] createLocalDriver ::: serverUrl:::http://127.0.0.1:4723/wd/hub
+16:27:47,459 INFO  [CreateDriver] Driver Capabilities createLocalDriver:::Capabilities {appActivity: com.application.appiumtutor..., appPackage: com.application.appiumtutorial, automationName: uiautomator2, deviceName: OPPO A54, noReset: false, platformName: Android, udid: PZPVSC95GMKNGUBQ}
+16:28:40,310 ERROR [CreateDriver] Throwable while createLocalDriver:::Unable to create a new remote session. Please check the server log for more details. Original error: An unknown server-side error occurred while processing the command. Original error: Error finding if 'io.appium.settings' is installed. Original error: Error executing adbExec. Original error: 'Command 'C:\\Android\\platform-tools\\adb.exe -P 5037 -s PZPVSC95GMKNGUBQ shell dumpsys package io.appium.settings' exited with code 1'; Command output: adb.exe: device offline
+
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'THLASIMK', ip: '192.168.1.43', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.1.1'
+Driver info: driver.version: CreateDriver
+remote stacktrace: UnknownError: An unknown server-side error occurred while processing the command. Original error: Error finding if 'io.appium.settings' is installed. Original error: Error executing adbExec. Original error: 'Command 'C:\\Android\\platform-tools\\adb.exe -P 5037 -s PZPVSC95GMKNGUBQ shell dumpsys package io.appium.settings' exited with code 1'; Command output: adb.exe: device offline
+
+    at getResponseForW3CError (C:\Users\asimk\AppData\Roaming\npm\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\asimk\AppData\Roaming\npm\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:380:37)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'THLASIMK', ip: '192.168.1.43', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.1.1'
+Driver info: driver.version: CreateDriver
+16:28:40,318 INFO  [TestBaseClass] Android Driver created!! Driver details :::null
+16:28:40,664 INFO  [PageBaseClass] 1st Flow
+16:28:40,675 INFO  [PageBaseClass] Unable to click on Introduction To Appium Button
+16:28:40,786 DEBUG [cache] Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+16:28:40,788 DEBUG [cache] TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+16:28:40,791 DEBUG [cache] TemplateLoader.findTemplateSource("index.ftl"): Found
+16:28:40,791 DEBUG [cache] Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+16:28:41,341 DEBUG [cache] Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+16:28:41,341 DEBUG [cache] TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+16:28:41,342 DEBUG [cache] TemplateLoader.findTemplateSource("head.ftl"): Found
+16:28:41,342 DEBUG [cache] Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+16:28:41,346 DEBUG [cache] Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+16:28:41,347 DEBUG [cache] TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+16:28:41,347 DEBUG [cache] TemplateLoader.findTemplateSource("nav.ftl"): Found
+16:28:41,347 DEBUG [cache] Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+16:28:41,389 DEBUG [cache] Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+16:28:41,389 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+16:28:41,390 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+16:28:41,390 DEBUG [cache] Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+16:28:41,406 DEBUG [cache] Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+16:28:41,407 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+16:28:41,408 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+16:28:41,408 DEBUG [cache] Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+16:28:41,488 DEBUG [cache] Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+16:28:41,489 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+16:28:41,489 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+16:28:41,489 DEBUG [cache] Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+16:28:41,529 DEBUG [cache] Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+16:28:41,530 DEBUG [cache] TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+16:28:41,531 DEBUG [cache] TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+16:28:41,532 DEBUG [cache] Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+16:28:41,538 DEBUG [cache] Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+16:28:41,539 DEBUG [cache] TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+16:28:41,540 DEBUG [cache] TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+16:28:41,540 DEBUG [cache] Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+16:28:41,544 DEBUG [cache] Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+16:28:41,545 DEBUG [cache] TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+16:28:41,545 DEBUG [cache] TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+16:28:41,545 DEBUG [cache] Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+16:28:41,556 DEBUG [cache] Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+16:28:41,557 DEBUG [cache] TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+16:28:41,557 DEBUG [cache] TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+16:28:41,558 DEBUG [cache] Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+16:28:41,594 DEBUG [cache] Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+16:28:41,595 DEBUG [cache] TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+16:28:41,596 DEBUG [cache] TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+16:28:41,596 DEBUG [cache] Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+16:29:07,939 INFO  [TestBaseClass] Initializing Appium driver for testBedName::: for device Type::Android
+16:29:07,994 INFO  [AppiumLauncher] *************** Starting Appium Server for Android Device::: on OS :::WINDOWS 10
+16:29:18,202 INFO  [AppiumLauncher] Appium Server started successfully on windows 10 for:::Android
+16:29:18,202 INFO  [TestBaseClass] Initializing local driver
+16:29:18,218 INFO  [DeviceCapabilities] Setting Desired capabilities:::
+16:29:18,223 INFO  [DeviceCapabilities] Capabilities for Capabilities {appActivity: com.application.appiumtutor..., appPackage: com.application.appiumtutorial, automationName: uiautomator2, deviceName: OPPO A54, noReset: false, platformName: Android, udid: PZPVSC95GMKNGUBQ}
+16:29:18,235 INFO  [CreateDriver] *****Start createLocalDriver method*******
+16:29:18,236 INFO  [CreateDriver] createLocalDriver ::: serverUrl:::http://127.0.0.1:4723/wd/hub
+16:29:18,236 INFO  [CreateDriver] Driver Capabilities createLocalDriver:::Capabilities {appActivity: com.application.appiumtutor..., appPackage: com.application.appiumtutorial, automationName: uiautomator2, deviceName: OPPO A54, noReset: false, platformName: Android, udid: PZPVSC95GMKNGUBQ}
+16:30:01,554 INFO  [CreateDriver] AppiumDriver successfully created:::createLocalDriver Asimio.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=com.application.appiumtutorial.MainActivity, appPackage=com.application.appiumtutorial, automationName=uiautomator2, databaseEnabled=false, desired={platformName=android, appActivity=com.application.appiumtutorial.MainActivity, appPackage=com.application.appiumtutorial, automationName=uiautomator2, deviceName=OPPO A54, noReset=false, udid=PZPVSC95GMKNGUBQ}, deviceApiLevel=30, deviceManufacturer=OPPO, deviceModel=CPH2239, deviceName=PZPVSC95GMKNGUBQ, deviceScreenDensity=320, deviceScreenSize=720x1600, deviceUDID=PZPVSC95GMKNGUBQ, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, noReset=false, pixelRatio=2, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=72, takesScreenshot=true, udid=PZPVSC95GMKNGUBQ, viewportRect={left=0, top=72, width=720, height=1368}, warnings={}, webStorageEnabled=false}
+16:30:01,555 INFO  [TestBaseClass] Android Driver created!! Driver details :::io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=com.application.appiumtutorial.MainActivity, appPackage=com.application.appiumtutorial, automationName=uiautomator2, databaseEnabled=false, desired={platformName=android, appActivity=com.application.appiumtutorial.MainActivity, appPackage=com.application.appiumtutorial, automationName=uiautomator2, deviceName=OPPO A54, noReset=false, udid=PZPVSC95GMKNGUBQ}, deviceApiLevel=30, deviceManufacturer=OPPO, deviceModel=CPH2239, deviceName=PZPVSC95GMKNGUBQ, deviceScreenDensity=320, deviceScreenSize=720x1600, deviceUDID=PZPVSC95GMKNGUBQ, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, noReset=false, pixelRatio=2, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=72, takesScreenshot=true, udid=PZPVSC95GMKNGUBQ, viewportRect={left=0, top=72, width=720, height=1368}, warnings={}, webStorageEnabled=false}
+16:30:01,822 INFO  [PageBaseClass] 1st Flow
+16:30:01,975 INFO  [TestBaseClass] Waiting for Visibility of Element having locator::[[io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=com.application.appiumtutorial.MainActivity, appPackage=com.application.appiumtutorial, automationName=uiautomator2, databaseEnabled=false, desired={platformName=android, appActivity=com.application.appiumtutorial.MainActivity, appPackage=com.application.appiumtutorial, automationName=uiautomator2, deviceName=OPPO A54, noReset=false, udid=PZPVSC95GMKNGUBQ}, deviceApiLevel=30, deviceManufacturer=OPPO, deviceModel=CPH2239, deviceName=PZPVSC95GMKNGUBQ, deviceScreenDensity=320, deviceScreenSize=720x1600, deviceUDID=PZPVSC95GMKNGUBQ, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, noReset=false, pixelRatio=2, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=72, takesScreenshot=true, udid=PZPVSC95GMKNGUBQ, viewportRect={left=0, top=72, width=720, height=1368}, warnings={}, webStorageEnabled=false}] -> id: com.application.appiumtutorial:id/btn_appium_intro]
+16:30:02,172 INFO  [TestBaseClass] Clicking on Element having locator:::[[io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=com.application.appiumtutorial.MainActivity, appPackage=com.application.appiumtutorial, automationName=uiautomator2, databaseEnabled=false, desired={platformName=android, appActivity=com.application.appiumtutorial.MainActivity, appPackage=com.application.appiumtutorial, automationName=uiautomator2, deviceName=OPPO A54, noReset=false, udid=PZPVSC95GMKNGUBQ}, deviceApiLevel=30, deviceManufacturer=OPPO, deviceModel=CPH2239, deviceName=PZPVSC95GMKNGUBQ, deviceScreenDensity=320, deviceScreenSize=720x1600, deviceUDID=PZPVSC95GMKNGUBQ, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, noReset=false, pixelRatio=2, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=72, takesScreenshot=true, udid=PZPVSC95GMKNGUBQ, viewportRect={left=0, top=72, width=720, height=1368}, warnings={}, webStorageEnabled=false}] -> id: com.application.appiumtutorial:id/btn_appium_intro]
+16:30:02,698 INFO  [TestBaseClass] Clicked on Element having locator:::[[io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=com.application.appiumtutorial.MainActivity, appPackage=com.application.appiumtutorial, automationName=uiautomator2, databaseEnabled=false, desired={platformName=android, appActivity=com.application.appiumtutorial.MainActivity, appPackage=com.application.appiumtutorial, automationName=uiautomator2, deviceName=OPPO A54, noReset=false, udid=PZPVSC95GMKNGUBQ}, deviceApiLevel=30, deviceManufacturer=OPPO, deviceModel=CPH2239, deviceName=PZPVSC95GMKNGUBQ, deviceScreenDensity=320, deviceScreenSize=720x1600, deviceUDID=PZPVSC95GMKNGUBQ, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, noReset=false, pixelRatio=2, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=72, takesScreenshot=true, udid=PZPVSC95GMKNGUBQ, viewportRect={left=0, top=72, width=720, height=1368}, warnings={}, webStorageEnabled=false}] -> id: com.application.appiumtutorial:id/btn_appium_intro]
+16:30:02,698 INFO  [PageBaseClass] Clicked on Introduction To Appium Button
+16:30:12,582 DEBUG [cache] Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+16:30:12,583 DEBUG [cache] TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+16:30:12,586 DEBUG [cache] TemplateLoader.findTemplateSource("index.ftl"): Found
+16:30:12,586 DEBUG [cache] Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+16:30:12,831 DEBUG [cache] Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+16:30:12,832 DEBUG [cache] TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+16:30:12,833 DEBUG [cache] TemplateLoader.findTemplateSource("head.ftl"): Found
+16:30:12,833 DEBUG [cache] Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+16:30:12,839 DEBUG [cache] Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+16:30:12,840 DEBUG [cache] TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+16:30:12,841 DEBUG [cache] TemplateLoader.findTemplateSource("nav.ftl"): Found
+16:30:12,841 DEBUG [cache] Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+16:30:12,853 DEBUG [cache] Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+16:30:12,853 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+16:30:12,854 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+16:30:12,854 DEBUG [cache] Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+16:30:12,874 DEBUG [cache] Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+16:30:12,874 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+16:30:12,875 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+16:30:12,875 DEBUG [cache] Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+16:30:12,896 DEBUG [cache] Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+16:30:12,897 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+16:30:12,898 DEBUG [cache] TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+16:30:12,898 DEBUG [cache] Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+16:30:12,937 DEBUG [cache] Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+16:30:12,937 DEBUG [cache] TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+16:30:12,938 DEBUG [cache] TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+16:30:12,938 DEBUG [cache] Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+16:30:12,946 DEBUG [cache] Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+16:30:12,949 DEBUG [cache] TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+16:30:12,951 DEBUG [cache] TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+16:30:12,951 DEBUG [cache] Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+16:30:12,962 DEBUG [cache] Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+16:30:12,963 DEBUG [cache] TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+16:30:12,964 DEBUG [cache] TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+16:30:12,964 DEBUG [cache] Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+16:30:12,970 DEBUG [cache] Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+16:30:12,976 DEBUG [cache] TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+16:30:12,977 DEBUG [cache] TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+16:30:12,977 DEBUG [cache] Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+16:30:12,997 DEBUG [cache] Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+16:30:12,998 DEBUG [cache] TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+16:30:12,999 DEBUG [cache] TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+16:30:12,999 DEBUG [cache] Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/asimk/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"

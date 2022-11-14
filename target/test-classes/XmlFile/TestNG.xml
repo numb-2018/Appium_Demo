@@ -10,7 +10,7 @@
 	<test name="OPPO_A54">
 
 		<classes>
-			<class name="smoke_test.login_test" >
+			<class name="smoke_test.First_Appium_Intro_Test" >
 				<!--<methods>
 					<include name=""></include>
 					<include name=","></include>

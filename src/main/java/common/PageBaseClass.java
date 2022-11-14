@@ -31,7 +31,6 @@ public class PageBaseClass {
 	ScreenShot screenshot;
 
 
-
 	protected AppiumDriver<?> getDriver(){
 		if (driver == null) {
 			driver = (AndroidDriver<?>) CreateDriver.getDriver();
@@ -40,12 +39,14 @@ public class PageBaseClass {
 	}
 
 
+
+
 	/**
 	 * Methods for Report Generation and Steps Validation
 	 */
 	protected void reporterInitialization(String testBedName) {
 		String dateName = new SimpleDateFormat("yyyyMMdd" + "_" + "hhmmss").format(new Date());
-		htmlReporter = new ExtentHtmlReporter(System.getProperty("user.dir") + "/PremiseReport/" + "ExtentReport_" + testBedName + "_" + dateName + ".html");
+		htmlReporter = new ExtentHtmlReporter(System.getProperty("user.dir") + "/AppiumReport/" + "ExtentReport_" + testBedName + "_" + dateName + ".html");
 		htmlReporter.config().setDocumentTitle("Android Premise Mobile App");
 		htmlReporter.config().setReportName("Automation Execution Report");
 		htmlReporter.config().setTheme(Theme.STANDARD);
@@ -220,12 +221,7 @@ public class PageBaseClass {
 	}
 	
 	
-	protected AppiumDriver<?> getDriver(){
-		if (driver == null) {
-			driver = (AndroidDriver<?>) CreateDriver.getDriver();
-		}
-		return this.driver;
-	}*/
+*/
 
 	
 	/**
